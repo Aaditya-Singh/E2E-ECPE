@@ -1,0 +1,2540 @@
+6 6
+ (5, 4),
+1,null,null,Jobs by the hand
+2,null,null,he led him out of the worshipful crowd and walked him up to a hill
+3,null,null,where there was a well and a small pond
+4,null,null,we sit down and he pulls out this straight razor
+5,fear,worry,im thinking he 's a nutcase and begin to worry
+6,null,null,Then he pulls out a bar of soap  .  I had long hair at the time and he lathered up my hair and shaved my head .
+18 4
+ (1, 4),
+1,happiness,exulted,As Wozniak later exulted
+2,null,null,We were participating in the biggest revolution that had ever happened
+3,null,null,I thought
+4,null,null,I was so happy to be a part of it .
+50 2
+ (2, 2),
+1,null,null,He took them to visit a computer store
+2,surprise,was struck by,where he was struck by how poorly the products were marketed .
+51 2
+ (2, 2),
+1,null,null,When he arrived at Apple headquarters
+2,surprise,was startled by,Sculley was startled by the unassuming offices and casual atmosphere .
+60 2
+ (2, 2),
+1,null,null,As Jobs and his team began to work closely with Microsoft
+2,fear,worried,they grew worried that it would copy Macintosh 's graphical user interface .
+69 2
+ (2, 2),
+1,null,null,By early 1985 Burrell Smith was also ready to leave
+2,fear,worried,He had worried that it would be hard to quit if Jobs tried to talk him out of it
+76 2
+ (2, 1),
+1,null,null,He warned them that there were strict laws against sharing technology with the Soviets
+2,anger,annoyed,Jobs was annoyed .
+87 2
+ (1, 1),
+1,sadness,pain,Steve talked to me a lot about being abandoned and the pain that caused
+2,null,null,he said .
+89 1
+ (1, 1),
+1,happiness,proud,He was proud that his father never adopted a servile attitude or slick style that may have made him a better salesman .
+100 7
+ (2, 2),
+1,null,null,Bewkes didnt agree with any of those premises
+2,happiness,happy,He said he was happy for Apple to sell digital subscriptions for Time Inc
+3,null,null,Apple 's 30% take was not the problem
+4,null,null,im telling you right now
+5,null,null,if you sell a sub for us
+6,null,null,you can have 30%
+7,null,null,Bewkes told him .
+102 4
+ (2, 1),
+1,null,null,What did he think of the suggestion that Apple sometimes acted arrogantly
+2,fear,worried about,im not worried about that
+3,null,null,he said
+4,null,null,because we 're not arrogant .
+103 4
+ (1, 1),
+1,fear,worried,Powell worried that her husband would again cancel
+2,null,null,so she was thrilled when the whole family took off in early July for Kona Village
+3,null,null,Hawaii
+4,null,null,which was the first leg of the trip .
+108 7
+ (7, 6),(7, 7),
+1,null,null,Lines of traffic are the worst tracks ( there are no roads in the districts here referred to ) for a traveller to go upon
+2,null,null,not only because the hospitality of the people has been damped by frequent communication with travellers
+3,null,null,but
+4,null,null,by intercourse with the semi civilised merchant
+5,null,null,their natural honour and honesty are corrupted
+6,null,null,their cupidity is increased
+7,surprise,frighten,and the show of firearms ceases to frighten them .
+119 8
+ (2, 2),
+1,null,null,but a few soft words were found sufficient to make them all withdraw and settle the matter at issue by arbitration in some appointed place
+2,happiness,fearlessly,A few men without property can cross their lands fearlessly
+3,null,null,though a single individual with property would stand no chance
+4,null,null,for they are insatiable thieves
+5,null,null,But little is seen of these people on the journey
+6,null,null,as the chiefs take their taxes by deputy
+7,null,null,partly out of pride
+8,null,null,and partly because they think they can extort more by keeping in the mysterious distance .
+135 9
+ (3, 3),(5, 3),
+1,null,null,but they came and went in the most tantalising manner
+2,null,null,notwithstanding I offered three times the hire that any merchant could afford to give
+3,sadness,worse and worse,Every day seemed to be worse and worse
+4,null,null,Some of Musa 's men came to get palm toddy for him
+5,sadness,weak,as he was too weak  to stand
+6,null,null,and was so cold nothing would warm him
+7,null,null,There was
+8,null,null,however
+9,null,null,no message brought for myself
+136 8
+ (1, 2),
+1,sadness,suffer,My patience was beginning to suffer again
+2,null,null,for I could not help thinking that the chiefs of the place were preventing their village men going with me in order that my presence here might ward of the Watuta
+3,null,null,so I called up the kirangozi
+4,null,null,who had thirteen  "  Watoto
+5,null,null,"   as they are called
+6,null,null,or children of his own
+7,null,null,wishing to go
+8,null,null,and asked him if he knew why no other men could be got .
+139 10
+ (7, 7),
+1,null,null,At length giving in
+2,null,null,I entered Ruhe 's boma
+3,null,null,the poles of which were decked with the skulls of his enemies stuck upon them
+4,null,null,Instead
+5,null,null,however
+6,null,null,of seeing him myself
+7,fear,feared,as he feared my evil eye
+8,null,null,I conducted the arrangements for the hongo through Baraka
+9,null,null,in the same way as I did at M'yonga 's
+10,null,null,directing that it should be limited to the small sum of one barsati and four yards kiniki .
+142 11
+ (7, 10),
+1,null,null,Whilst engaged in this operation
+2,null,null,Baraka
+3,null,null,accompanied by Wadimoyo ( Heart ' s-stream )
+4,null,null,another of my freeman
+5,null,null,approached me in great consternation
+6,null,null,whispering to themselves
+7,fear,fearful,They said they had some fearful news to communicate
+8,null,null,which
+9,null,null,when I heard it
+10,null,null,they knew would deter our progress :  it was of such great moment and magnitude
+11,null,null,they thought they could not deliver it then .
+165 17
+ (15, 17),
+1,null,null,heir surprise knew no bounds
+2,null,null,they could scarcely believe what they saw
+3,null,null,and then
+4,null,null,on recovering
+5,null,null,with the spirit of true gentlemen
+6,null,null,they seized both my hands
+7,null,null,congratulating me on the magnitude of my success
+8,null,null,and pointed out
+9,null,null,as an example of it
+10,null,null,a bystander who showed fearful scars
+11,null,null,both on his abdomen and at the blade of his shoulder
+12,null,null,who they declared had been run through by one of these animals
+13,null,null,It was
+14,null,null,therefore
+15,happiness,wonderful,wonderful to them
+16,null,null,they observed
+17,null,null,with what calmness I went up to such formidable beasts .
+198 8
+ (4, 3),
+1,null,null,and ' what did ye say
+2,null,null,'' demanded Polly Ann
+3,null,null,pausing in her work
+4,anger,her eyes flashing with resentment,her eyes flashing with resentment
+5,null,null,Did ye tell ' em they was cowards to want to settle lands
+6,null,null,and not fight for ' em
+7,null,null,Other folks ' lands
+8,null,null,too
+201 3
+ (3, 3),
+1,null,null,I flushed again
+2,null,null,and began by stammering
+3,fear,fear,For I had a great fear that Major Colfax 's temper would fly into bits when he heard it .
+204 5
+ (1, 1),
+1,fear,fear,I fear that we are losing our heads
+2,null,null,gentlemen
+3,null,null,'' he said
+4,null,null,and I propose to you the health of the first citizen of Kentucky
+5,null,null,Colonel George Rogers Clark .
+212 11
+ (6, 5),
+1,null,null,Liberty
+2,null,null,Equality
+3,null,null,Fraternity
+4,null,null,they are only possible for the bachelor
+5,null,null,Hearing a noise
+6,fear,nervously,he glanced nervously in the direction of the woods
+7,null,null,only to perceive his negro carrying a pail of water
+8,null,null,I I was expecting some friends
+9,null,null,'' he said
+10,null,null,Sit down
+11,null,null,Davy
+216 6
+ (6, 6),
+1,null,null,Then I heard a voice calling me
+2,null,null,and pushing past Mrs
+3,null,null,Cowan
+4,null,null,I ran into the cabin
+5,null,null,Polly Ann lay on the log bedstead
+6,surprise,not imagined,and she turned to mine a face radiant with a happiness I had not imagined
+217 15
+ (13, 13),
+1,null,null,The Indians had shot at a party shelling corn at Captain Bowman 's plantation
+2,null,null,and killed two
+3,null,null,while the others had taken refuge in the crib
+4,null,null,Fired at from every brake
+5,null,null,James Ray had ridden to Harrodstown for succor
+6,null,null,and the savages had been beaten off
+7,null,null,But only the foolhardy returned to their clearings now
+8,null,null,We were on the edge of another dreaded summer of siege
+9,null,null,the prospect of banishment from the homes we could almost see
+10,null,null,staring us in the face
+11,null,null,and the labors of the spring lost again
+12,null,null,There was bitter talk within the gates that night
+13,anger,angrily,and many declared angrily that Colonel Clark had abandoned us
+14,null,null,But I remembered what he had said
+15,null,null,and had faith in him .
+239 3
+ (3, 3),
+1,null,null,On the previous evening he had said to her :   "  Farewell until to-morrow
+2,null,null,"   and knowing that his work in the house had not been concluded
+3,surprise,extremely surprised,she was extremely surprised that he had not yet put in an appearance .
+246 9
+ (6, 6),
+1,null,null,But the worthy woman had already recovered her self possession and her accustomed loquacity at the same time
+2,null,null,"  Ah
+3,null,null,my dear young lady
+4,null,null,"   she said
+5,null,null,bravely
+6,sadness,in such sorrow,"  im in such sorrow that im losing my senses completely
+7,null,null,Still
+8,null,null,it was only from the kindest of motives that I ventured into the garden
+9,null,null,and I had scarcely entered it before I saw something white run away from me I felt sure it was Mirza and so I ran after it .
+261 4
+ (3, 3),
+1,null,null,She was oppressed by vague apprehensions
+2,null,null,and looked closely at every one who passed her
+3,fear,fearing,fearing the presence of spies
+4,null,null,and knowing full well that the most profound secrecy could alone insure the success of Pascal 's plans .
+265 4
+ (2, 2),
+1,null,null,"  Crazy in the fullest sense of the word
+2,fear,fear,She refuses the count 's millions from a silly fear of telling people that she belongs to the Chalusse family
+3,null,null,She threatened her brother
+4,null,null,but she would never have carried her threats into execution .
+272 3
+ (2, 2),
+1,null,null,She shot at him a withering look
+2,fear,fear,for even in her fear she would brook no liberties
+3,null,null,Nick spoke up :
+285 4
+ (2, 2),
+1,null,null,By Job
+2,fear,fears,there 's no devil if i 'll stand back from my clearing and waste the rest of the summer for the fears of a pack of cowards
+3,null,null,i 'll take a posse and march to Shawanee Springs this day
+4,null,null,and see any man a fair fight that tries to stop me
+314 3
+ (3, 3),
+1,null,null,Nick got to his feet
+2,null,null,and if anything he did could have surprised me
+3,surprise,surprised,I should have been surprised when he put his arm coaxing ly about Xavier 's neck .
+329 5
+ (4, 1),
+1,null,null,"  This is really getting very serious
+2,null,null,"   said Mrs
+3,null,null,Pitkin
+4,anger,annoyed,annoyed
+5,null,null,"  Suppose he should take a fancy to this boy
+336 10
+ (2, 2),
+1,null,null,Worn with pain
+2,sadness,weak,and weak from the prolonged hardships which I had under gone
+3,null,null,I was removed
+4,null,null,with a great train of wounded sufferers
+5,null,null,to the base hospital at Peshawar
+6,null,null,Here I rallied
+7,null,null,and had already improved so faras to be able to walk about the wards
+8,null,null,and even to bask a little upon the veranda
+9,null,null,when I was struck down by enteric fever
+10,null,null,that curse of our Indian possessions .
+351 11
+ (9, 1),
+1,null,null,This malignant and terrible contortion
+2,null,null,combined with the low forehead
+3,null,null,blunt nose
+4,null,null,and prognathous jaw
+5,null,null,gave the dead man a singularly simiousand ape-like appearance
+6,null,null,which was increased by his writhing
+7,null,null,unnatural posture
+8,null,null,I have seen death in many forms
+9,fear,fear,but never has it appeared to me in a more fear some aspect than in that dark
+10,null,null,grimy apartment
+11,null,null,which looked out upon one of the main arteries of suburban London .
+357 3
+ (2, 2),(2, 3),
+1,null,null,It was a useless attempt
+2,sadness,too much excited,My mind had been too much excited by all that had occurred
+3,null,null,and the strangest fancies and surmises crowded into it .
+369 6
+ (2, 2),
+1,null,null,He had evidently come with the intention of consulting with Sherlock Holmes
+2,disgust,appeared to be embarrassed,for on perceiving his colleague he appeared to be embarrassed and put out
+3,null,null,He stood in the centre of the room
+4,null,null,fumbling nervously with his hat and uncertain what to do
+5,null,null,This is a most extraordinary case
+6,null,null,he said at last a most incomprehensible affair .
+370 6
+ (4, 4),
+1,null,null,He had evidently come with the intention of consulting with Sherlock Holmes
+2,null,null,for on perceiving his colleague he appeared to be embarrassed and put out
+3,null,null,He stood in the centre of the room
+4,fear,nervously,fumbling nervously with his hat and uncertain what to do
+5,null,null,This is a most extraordinary case
+6,null,null,he said at last a most incomprehensible affair .
+384 13
+ (3, 3),
+1,null,null,As he approached his farm
+2,null,null,he was surprised to see a horse hitched to each of the posts of the gate
+3,surprise,more surprised,Still more surprised was he on the entering to find two young men in possession of his sitting room
+4,null,null,One
+5,null,null,with a long pale face
+6,null,null,was leaning back in the rocking chair
+7,null,null,with his feet cocked up upon the stove
+8,null,null,The other
+9,null,null,a bull necked youth with coarse
+10,null,null,bloated features
+11,null,null,was standing in front of the window with his hands in his pockets whistling a popular hymn
+12,null,null,Both of them nodded to Ferrier as he entered
+13,null,null,and the one in the rocking chair commenced the conversation .
+387 13
+ (8, 7),
+1,null,null,He walked for a couple of miles through one ravine after another without success
+2,null,null,though
+3,null,null,from the marks upon the bark of the trees
+4,null,null,and other indications
+5,null,null,he judged that there were numerous bears in the vicinity
+6,null,null,At last
+7,null,null,after two or three hours   fruitless search
+8,sadness,despair,he was thinking of turning back in despair
+9,null,null,when casting his eyes upwards he saw a sight which sent a thrill of pleasure through his heart
+10,null,null,On the edge of a jutting pinnacle
+11,null,null,three or four hundred feet above him
+12,null,null,there stood a creature somewhat resembling a sheep in appearance
+13,null,null,but armed with a pair of gigantic horns .
+398 7
+ (6, 4),(6, 5),
+1,null,null,When an accident happened
+2,null,null,he was summoned because he chanced to be close at hand
+3,null,null,but just as he was flattering himself that he had gained a desirable patient
+4,null,null,he found himself in presence of some celebrated physician
+5,null,null,who had come from a distance in his carriage
+6,sadness,disappointments,Accustomed to such disappointments
+7,null,null,he knew how to conceal his dissatisfaction .
+402 9
+ (3, 2),
+1,null,null,But to carry out this arrangement it was necessary to have a sheet of stamped paper
+2,null,null,and the spurious clerk had neglected to provide himself with some
+3,disgust,annoy,This circumstance seemed to annoy him greatly
+4,null,null,and you might almost have sworn that he regretted the concession he had promised
+5,null,null,Did he think of going
+6,null,null,Madame Vantrasson feared so
+7,null,null,and turning eagerly to her husband
+8,null,null,she exclaimed :    "  Run to the tobacco shop in the Rue de Levis
+9,null,null,you will find some paper there
+433 9
+ (5, 5),
+1,null,null,What should she do
+2,null,null,Her first impulse was to run to the Commissary of Police 's office or to the house of Pascal 's friend
+3,null,null,but on the other hand
+4,null,null,she dared not go out
+5,fear,fear,for fear he might return in her absence
+6,null,null,Thus
+7,null,null,in an agony of suspense
+8,null,null,she waited counting the seconds by the quick throbbing s of her temples
+9,null,null,and straining her ears to catch the slightest sound .
+434 13
+ (8, 7),
+1,null,null,He had barely strength enough to throw himself on to the bed
+2,null,null,and in a moment he was sleeping with that heavy slumber which so often seizes hold of one on the occasion of a great crisis
+3,null,null,and which has so frequently been observed among persons condemned to death
+4,null,null,on the night preceding their execution
+5,null,null,Four or five times his mother came to listen at the door
+6,null,null,Once she entered
+7,null,null,and seeing her son sleeping soundly
+8,happiness,a smile of satisfaction,she could not repress a smile of satisfaction
+9,null,null,"  Poor Pascal
+10,null,null,"   she thought
+11,null,null,"  he can bear no excess but excess of work
+12,null,null,Heavens
+13,null,null,how surprised and mortified he will be when he awakes
+436 13
+ (11, 9),
+1,null,null,Contrary to his usual custom
+2,null,null,he took the little staircase on the right
+3,null,null,leading to the grand vestibule
+4,null,null,where several lawyers were assembled
+5,null,null,earnestly engaged in conversation
+6,null,null,They were evidently astonished to see Pascal
+7,null,null,and their conversation abruptly ceased on his approach
+8,null,null,They assumed a grave look and turned away their heads in disgust
+9,null,null,The unfortunate man at once realized the truth
+10,null,null,and pressed his hand to his forehead
+11,sadness,despairing,with a despairing gesture
+12,null,null,as he murmured :   "  Already
+13,null,null,already
+440 22
+ (13, 10),(13, 11),
+1,null,null,The upper part of this portal was of glass
+2,null,null,it was possible to see what was occurring in the adjoining room
+3,null,null,When Madame Ferailleur perceived Pascal seat himself at his desk and begin to write
+4,null,null,she felt a trifle reassured
+5,null,null,and almost thought of going away
+6,null,null,But a vague dread
+7,null,null,stronger than reason or will
+8,null,null,riveted her to the spot
+9,null,null,A few moments later
+10,null,null,when she saw the revolver in her son 's hand
+11,null,null,she understood everything
+12,null,null,Her blood froze in her veins
+13,fear,terror,and yet she had sufficient self-control to repress the cry of terror which sprang to her lips
+14,null,null,She realized that the danger was terrible
+15,null,null,imminent
+16,null,null,extreme
+17,null,null,Her heart
+18,null,null,rather than her bewildered reason
+19,null,null,told her that her son 's life hung on a single thread
+20,null,null,The slightest sound
+21,null,null,a word
+22,null,null,a rap on the door might hasten the unfortunate man 's deed .
+453 5
+ (1, 4),
+1,fear,despair,The concierge was in despair
+2,null,null,"  Heavens
+3,null,null,"   he exclaimed
+4,null,null,"  so the master 's dead
+5,null,null,What a misfortune
+472 12
+ (9, 9),
+1,null,null,She clasped her hands
+2,null,null,with a gesture of intense joy and relief
+3,null,null,and then sank into an arm chair
+4,null,null,murmuring :   "  Oh
+5,null,null,thanks
+6,null,null,monsieur
+7,null,null,thanks
+8,null,null,"   For she was thinking of Pascal
+9,fear,feared,and she had feared he might shrink from her when she fully revealed to him her wretched
+10,null,null,sorrowful past
+11,null,null,of which he was entirely ignorant
+12,null,null,But the magistrate 's words had reassured her .
+495 4
+ (2, 2),
+1,null,null,Fortunat did not know what to reply
+2,surprise,surprise,The question took him completely by surprise
+3,null,null,and feeling that his answer would have a very considerable influence upon what might follow
+4,null,null,he hesitated .
+497 6
+ (3, 5),(3, 6),
+1,null,null,One afternoon
+2,null,null,when Bruno came home from school
+3,surprise,surprised,he was surprised to find Maria
+4,null,null,the family 's maid who always kept her head bowed and never looked up from the carpet standing in his bedroom
+5,null,null,pulling all his belongings out of the wardrobe and packing them in four large wooden crates
+6,null,null,even the things he 'd hidden at the back that belonged to him and were nobody else 's business .
+499 7
+ (5, 4),
+1,null,null,Mother had walked into her own bedroom by then but Lars
+2,null,null,the butler
+3,null,null,was in there
+4,null,null,packing her things too
+5,sadness,sighed,She sighed and threw her hands in the air in frustration before marching back to the staircase
+6,null,null,followed by Bruno
+7,null,null,who wasnt going to let the matter drop without an explanation .
+513 11
+ (10, 7),
+1,null,null,' everyone has to do that
+2,null,null,' said Mother
+3,null,null,' it keeps us safe
+4,null,null,And who knows
+5,null,null,maybe we 'll be in less danger if we move away
+6,null,null,Now
+7,null,null,I need you to go upstairs and help Maria with your packing
+8,null,null,We dont have as much time to prepare as I would have liked
+9,null,null,thanks to some people
+10,sadness,sadly,Bruno nodded and walked away sadly
+11,null,null,knowing that  ' some people ' was a grown-up 's word for ' father ' and one that he wasnt supposed to use himself .
+530 11
+ (5, 5),
+1,null,null,' look over there
+2,null,null,' said Bruno
+3,null,null,and Gretel followed the direction of the finger he was pointing and saw
+4,null,null,emerging from a hut in the distance
+5,fear,huddled,a group of children huddled together and being shouted at by a group of soldiers
+6,null,null,The more they were shouted at
+7,null,null,the closer they huddled together
+8,null,null,but then one of the soldiers lunged towards them and they separated and seemed to do what he had wanted them to do all along
+9,null,null,which was to stand in a single line
+10,null,null,When they did
+11,null,null,the soldiers all started to laugh and applaud them .
+538 3
+ (3, 1),
+1,null,null,' i want to go home
+2,null,null,' said Bruno
+3,sadness,tears,He could feel tears welling up behind his eyes and wanted nothing more than for Father to realize just how awful a place out with really was and agree that it was time to leave .
+540 9
+ (8, 3),(8, 4),
+1,null,null,Bruno looked around
+2,null,null,His gaze landed on the window in the corner of the room and through it he could see the awful landscape beyond
+3,null,null,' did you do something wrong
+4,null,null,' he asked after a moment
+5,null,null,' something that  made the Fury angry
+6,null,null,me
+7,null,null,' said Father
+8,surprise,surprise,looking at him in surprise
+9,null,null,' what do you mean
+571 10
+ (7, 4),
+1,null,null,' because she 's the maid
+2,null,null,' said Gretel
+3,null,null,staring at him
+4,null,null,' that 's what she 's here for
+5,null,null,' that 's not what she 's here for
+6,null,null,' shouted Bruno
+7,anger,marching,standing up and marching over to her
+8,null,null,' she 's not just here to do things for us all the time
+9,null,null,you know
+10,null,null,Especially things that we can do ourselves . '
+576 2
+ (2, 1),
+1,null,null,Several weeks after Bruno arrived at out with with his family and with no prospect of a visit on the horizon from either Karl or Daniel or Martin
+2,anger,mad,he decided that he 'd better start to find some way to entertain himself or he would slowly go mad .
+579 9
+ (6, 6),
+1,null,null,On this particular day
+2,null,null,however
+3,null,null,since it was a Saturday morning and was so sunny
+4,null,null,he was not so perfectly groomed
+5,null,null,Instead he was wearing a white vest over his trousers and his hair flopped down over his forehead in exhaustion
+6,surprise,surprisingly,His arms were surprisingly tanned and he had the kind of muscles that Bruno wished he had himself
+7,null,null,He looked so much younger today that Bruno was surprised
+8,null,null,in fact he reminded him of the big boys at school
+9,null,null,the ones he always steered clear of .
+580 9
+ (7, 7),
+1,null,null,On this particular day
+2,null,null,however
+3,null,null,since it was a Saturday morning and was so sunny
+4,null,null,he was not so perfectly groomed
+5,null,null,Instead he was wearing a white vest over his trousers and his hair flopped down over his forehead in exhaustion
+6,null,null,His arms were surprisingly tanned and he had the kind of muscles that Bruno wished he had himself
+7,surprise,surprised,He looked so much younger today that Bruno was surprised
+8,null,null,in fact he reminded him of the big boys at school
+9,null,null,the ones he always steered clear of .
+589 13
+ (12, 13),
+1,null,null,' where 's Mother
+2,null,null,' asked Bruno
+3,null,null,looking around for the first person he usually searched for when he 'd had an accident
+4,null,null,' your mother has n't returned yet
+5,null,null,im afraid
+6,null,null,' said Pavel
+7,null,null,who was kneeling on the floor in front of him and examining the knee
+8,null,null,' im the only one here
+9,null,null,' what 's going to happen then
+10,null,null,' asked Bruno
+11,null,null,beginning to panic slightly
+12,sadness,tears,an emotion that might encourage tears
+13,null,null,I might bleed to death . '
+592 8
+ (7, 6),
+1,null,null,dont argue with me go to your room
+2,null,null,' she insisted
+3,null,null,and Bruno stepped off the chair
+4,null,null,putting his weight on what he had decided to call his bad leg
+5,null,null,and it hurt a little
+6,null,null,He turned and left the room but was still able to hear Mother saying thank you to Pavel as he walked towards the stairs
+7,happiness,happy,and this  made Bruno happy because surely it was obvious to everyone that if it had not been for him
+8,null,null,he would have bled to death .
+596 5
+ (1, 1),
+1,happiness,proud,Grandfather was very proud of his son when he saw him in his new uniform but Grandmother was the only one who seemed unimpressed
+2,null,null,After dinner had been served
+3,null,null,and after she and Gretel and Bruno had performed their latest production
+4,null,null,she sat down sadly in one of the armchairs and looked at Father
+5,null,null,shaking her head as if he were a huge disappointment to her .
+605 12
+ (10, 12),
+1,null,null,Bruno 's eyes opened wide and his mouth  made the shape of an O
+2,null,null,' i dont believe it
+3,null,null,' he said
+4,null,null,' why not
+5,null,null,' asked Shmuel
+6,null,null,' no
+7,null,null,' said Bruno
+8,null,null,shaking his head quickly
+9,null,null,' i dont mean I dont believe you
+10,surprise,surprise,I mean im surprised
+11,null,null,that 's all
+12,null,null,Because my birthday is April the fifteenth too .
+622 12
+ (8, 5),(8, 6),
+1,null,null,Bruno watched him
+2,null,null,hoping he was feeling all right
+3,null,null,although he managed to release the cork without any accidents
+4,null,null,But after he had filled Father 's glass and turned to refill Lieutenant Kotler 's
+5,null,null,he lost his grip of the bottle somehow and it fell crashing
+6,null,null,glug glug glugging its contents out directly onto the young man 's lap
+7,null,null,What happened then was both unexpected and extremely unpleasant
+8,anger,angry,Lieutenant Kotler grew very angry with Pavel and no one not Bruno
+9,null,null,not Gretel
+10,null,null,not Mother and not even Father stepped in to stop him doing what he did next
+11,null,null,even though none of them could watch
+12,null,null,Even though it  made Bruno cry and Gretel grow pale .
+623 21
+ (17, 7),(17, 15),(17, 16),
+1,null,null,' im reading
+2,null,null,' said Bruno
+3,null,null,' what are you reading
+4,null,null,' she asked him
+5,null,null,and rather than answer he simply turned the cover towards her so she could see for herself
+6,null,null,She  made a raspberry sound through her lips and some of her spit landed on Bruno 's face
+7,null,null,' boring
+8,null,null,' she said in a sing-song voice
+9,null,null,' it 's not boring at all
+10,null,null,' said Bruno
+11,null,null,' it 's an adventure
+12,null,null,It 's better than dolls
+13,null,null,that 's for sure
+14,null,null,Gretel didnt rise to the bait on that one
+15,null,null,' what are you doing
+16,null,null,' she repeated
+17,anger,irritating,irritating Bruno even further
+18,null,null,I told you
+19,null,null,im trying to read
+20,null,null,' he said in a grumpy voice
+21,null,null,' if some people would just let me . '
+631 8
+ (7, 7),
+1,null,null,' leave me alone
+2,null,null,' he said
+3,null,null,' i want to read my book
+4,null,null,' well
+5,null,null,why dont you lie down and close your eyes and let your imaginary friend read it to you
+6,null,null,' said Gretel
+7,happiness,delighted,delighted with herself now because she had something on him and she wasnt going to let it drop in a hurry
+8,null,null,' save you a job . '
+632 1
+ (1, 1),
+1,sadness,crying,' and yesterday he told me that his grandfather has n't been seen for days and no one knows where he is and whenever he asks his father about him he starts crying and hugs him so hard that he 's worried he 's going to squeeze him to death . '
+637 2
+ (2, 2),
+1,null,null,For several weeks the rain was on and off and on and off and Bruno and Shmuel did not see as much of each other as they would have liked
+2,fear,worry,When they did meet Bruno found that he was starting to worry about his friend because he seemed to be getting even thinner by the day and his face was growing more and more grey .
+639 7
+ (2, 3),(2, 4),(2, 5),(2, 6),
+1,null,null,Seething with anger
+2,surprise,surprise,Bruno went into the kitchen and got the biggest surprise of his life
+3,null,null,There
+4,null,null,sitting at the table
+5,null,null,a long way from the other side of the fence
+6,null,null,was Shmuel
+7,null,null,Bruno could barely believe his eyes .
+643 8
+ (3, 7),
+1,null,null,Shmuel looked as if he wasnt really listening
+2,null,null,instead his eyes were focused on the slices of chicken and stuffing that Bruno was throwing casually into his mouth
+3,sadness,guilty,After a moment Bruno realized what he was looking at and immediately felt guilty
+4,null,null,im sorry
+5,null,null,Shmuel
+6,null,null,' he said quickly
+7,null,null,' i should have given you some chicken too
+8,null,null,Are you hungry
+672 5
+ (4, 4),(4, 5),
+1,null,null,"  On the contrary
+2,null,null,"   she answered
+3,null,null,"  I told you because I thought you ought to know what people were saying
+4,sadness,sorry,The girl does n't matter to me one way or another but im sorry for her if she thinks she cares for you
+5,null,null,That wont bring her much happiness .  "
+687 4
+ (2, 2),
+1,null,null,Sir H
+2,happiness,enjoyed,Mildmay had enjoyed the confidence of Charles I
+3,null,null,who made him Master of the Jewels
+4,null,null,but he sat a few days as one of the King 's Judges .
+708 10
+ (6, 3),
+1,null,null,Marguerite at once understood that as Madame Leon knew that the marquis was among the funeral guests
+2,null,null,she had gone to warn him of Madame de Fondege 's presence
+3,null,null,This trivial circumstance proved that Mde Fondege 's interests were opposed to those of Mde Valorsay
+4,null,null,that they must
+5,null,null,therefore
+6,disgust,hate,hate each other
+7,null,null,and that
+8,null,null,with a little patience and skill
+9,null,null,she might utilize them
+10,null,null,one against the other .
+720 7
+ (6, 7),
+1,null,null,I was really   nervous
+2,null,null,because he was one of my heroes
+3,null,null,And I was also afraid that he   would n't be really smart anymore
+4,null,null,that he 'd be a caricature of himself
+5,null,null,like   happens to a lot of people
+6,happiness,delighted,But I was delighted
+7,null,null,He was as sharp as a tack .
+725 7
+ (1, 4),
+1,fear,worried about,I was worried about my children
+2,null,null,what they would do with the characters we 'd created
+3,null,null,he recalled
+4,null,null,It was like a dagger to my heart
+5,null,null,When he told his top staff in the Pixar conference room
+6,null,null,he started crying
+7,null,null,and he did so again when he addressed the eight hundred or so Pixar employees gathered in the studio 's atrium .
+729 4
+ (2, 2),
+1,null,null,Because most of his colleagues were used to it by then and had learned to cope
+2,fear,upset,what upset them most was when his ire turned on strangers
+3,null,null,Once we went to a Whole Foods market to get a smoothie
+4,null,null,Ive recalled .
+771 7
+ (6, 5),
+1,null,null,The prince could hardly believe his ears
+2,null,null,and rode off as hard as he could
+3,null,null,He found his way
+4,null,null,and arrived safe and sound at his father 's house
+5,null,null,where he told him of the danger he had run because of the grand vizir 's carelessness
+6,anger,angry,The king was very angry
+7,null,null,and had him strangled immediately .
+801 10
+ (10, 10),
+1,null,null,They obtained permission of the Sultan to take up their abode in the palace for some weeks
+2,null,null,and never left their sister night or day
+3,null,null,When at last a little boy
+4,null,null,beautiful as the sun
+5,null,null,was born
+6,null,null,they laid him in his cradle and carried it down to a canal which passed through the grounds of the palace
+7,null,null,Then
+8,null,null,leaving it to its fate
+9,null,null,they informed the Sultan that instead of the son he had so fondly desired the Sultana had given birth to a puppy
+10,sadness,grief,At this dreadful news the Sultan was so overcome with rage and grief that it was with great difficulty that the grand vizir managed to save the Sultana from his wrath .
+805 18
+ (15, 14),
+1,null,null,The Princess Parizade was much disturbed at the news
+2,null,null,and did not conceal her feelings
+3,null,null,"  Your meeting with the Sultan is very honourable to you
+4,null,null,"   she said
+5,null,null,"  and will
+6,null,null,I dare say
+7,null,null,be of service to you
+8,null,null,but it places me in a very awkward position
+9,null,null,It is on my account
+10,null,null,I know
+11,null,null,that you have resisted the Sultan 's wishes
+12,null,null,and I am very grateful to you for it
+13,null,null,But kings do not like to have their offers refused
+14,null,null,and in time he would bear a grudge against you
+15,sadness,unhappy,which would render me very unhappy
+16,null,null,Consult the Talking Bird
+17,null,null,who is wise and far seeing
+18,null,null,and let me hear what he says .  "
+807 10
+ (9, 9),
+1,null,null,The moment his Highness entered the courtyard
+2,null,null,the princess flung herself at his feet
+3,null,null,but he bent and raised her
+4,null,null,and gazed at her for some time
+5,null,null,struck with her grace and beauty
+6,null,null,and also with the indefinable air of courts that seemed to hang round this country girl
+7,null,null,"  They are all worthy one of the other
+8,null,null,"   he said to himself
+9,surprise,surprised,"  and I am not surprised that they think so much of her opinions
+10,null,null,I must know more of them .  "
+819 17
+ (3, 2),
+1,null,null,January 4
+2,null,null,- Mr Perkupp sent for me and told me that my position would be that of one of the senior clerks
+3,surprise,overjoyed,I was more than overjoyed
+4,null,null,Mr Perkupp added
+5,null,null,he would let me know to-morrow what the salary would be
+6,null,null,This means another day 's anxiety
+7,null,null,I dont mind
+8,null,null,for it is anxiety of the right sort
+9,null,null,That reminded me that I had forgotten to speak to Lupin about the letter I received from Mr Mutlar
+10,null,null,senr
+11,null,null,I broached the subject to Lupin in the evening
+12,null,null,having first consulted Carrie
+13,null,null,Lupin was riveted to the FINANCIAL NEWS
+14,null,null,as if he had been a born capitalist
+15,null,null,and I said :    "  Pardon me a moment
+16,null,null,Lupin
+17,null,null,how is it you have not been to the mutlars ' any day this week
+820 18
+ (4, 4),
+1,null,null,After our little supper
+2,null,null,he said :    "  My dear parents
+3,null,null,I have some news
+4,fear,fear,which I fear will affect you considerably
+5,null,null,"    I felt a qualm come over me
+6,null,null,and said nothing
+7,null,null,Lupin then said :    "  It may distress you - in fact
+8,null,null,im sure it will - but this afternoon I have given up my pony and trap for ever
+9,null,null,It may seem absurd
+10,null,null,but I was so pleased
+11,null,null,I immediately opened a bottle of port
+12,null,null,Gowing dropped in just in time
+13,null,null,bringing with him a large sheet
+14,null,null,with a print of a tailless donkey
+15,null,null,which he fastened against the wall
+16,null,null,He then produced several separate tails
+17,null,null,and we spent the remainder of the evening trying blindfolded to pin a tail on in the proper place
+18,null,null,My sides positively ached with laughter when I went to bed .
+834 14
+ (4, 5),
+1,null,null,Lumeresi
+2,null,null,on hearing this
+3,null,null,first consulted me
+4,disgust,displeased,saying his chief was displeased with him
+5,null,null,accusing him of being too proud
+6,null,null,in having at once two such distinguished guests
+7,null,null,and meant by these acts only to humble him
+8,null,null,I replied
+9,null,null,if that was the case
+10,null,null,the sooner he allowed us to go
+11,null,null,the better it would be for him
+12,null,null,and
+13,null,null,reminding him of his original promise to give me assistance on to Usui
+14,null,null,said he could do so now with a very good grace .
+841 5
+ (4, 3),
+1,null,null,A man from Ruanda then told us of the Wilyanwantu ( men eaters )
+2,null,null,who disdained all food but human flesh
+3,null,null,and Rumanika confirmed the statement
+4,disgust,sceptical,Though I felt very sceptical about it
+5,null,null,I could not help thinking it a curious coincidence that the position they were said to occupy agreed with Petherick 's Nyam Nyams ( men eaters ) .
+863 5
+ (2, 2),
+1,null,null,I want your father 's advice
+2,surprise,surprise,i 've had the worst of luck and I could tell you one or two things that would simply surprise you but anyway
+3,null,null,there it is
+4,null,null,Just for a night im sure you wont mind
+5,null,null,To-morrow or the day after I must be back in town or this thing will slip right through my fingers .
+864 4
+ (3, 3),
+1,null,null,i 've had the worst of luck and I could tell you one or two things that would simply surprise you but anyway
+2,null,null,there it is
+3,anger,wont mind,Just for a night im sure you wont mind
+4,null,null,To-morrow or the day after I must be back in town or this thing will slip right through my fingers .
+880 6
+ (4, 4),
+1,null,null,Her uncle
+2,null,null,watching her surreptitiously
+3,null,null,wondered of what she was thinking
+4,surprise,surprise,Her determined treatment of him that afternoon continued to surprise him
+5,null,null,She certainly ought to make her way in the world
+6,null,null,but what a pity that she was so plain .
+891 9
+ (3, 3),(3, 4),(3, 5),
+1,null,null,Thus her aunt found her
+2,null,null,later in the evening
+3,happiness,touched,She was touched by the figure
+4,null,null,the shabby black frock
+5,null,null,the white tired face
+6,null,null,She had been honestly disappointed in her niece
+7,null,null,disappointed in her plainness
+8,null,null,in her apparent want of heart
+9,null,null,in her silence and moroseness .
+896 12
+ (8, 8),
+1,null,null,She chose instinctively her path
+2,null,null,through the kitchen garden at the back of the village
+3,null,null,down the hill by the village street
+4,null,null,over the little bridge that crossed the rocky stream of the Dreot
+5,null,null,and up the steep hill that led on to the outskirts of Rothin Moor
+6,null,null,The day
+7,null,null,although she had no eyes for it
+8,surprise,surprise,was one of those sudden impulses of misty warmth that surprise the Glebeshire frosts
+9,null,null,The long stretch of the moor was enwrapped by a thin silver network of haze
+10,null,null,the warmth of the sun
+11,null,null,seen so dimly that it was like a shadow reflected in a mirror
+12,null,null,struck to the very heart of the soil .
+910 8
+ (2, 4),
+1,null,null,She hated sentiment and affectation in any one
+2,fear,afraid,She was afraid
+3,null,null,too
+4,null,null,that Anne bullied Aunt Elizabeth
+5,null,null,Maggie was sorry for Aunt Elizabeth but
+6,null,null,with all the arrogance of the young
+7,null,null,a little despised her
+8,null,null,Why did she tremble and start like that
+917 8
+ (4, 5),
+1,null,null,"  you 've come to live here
+2,null,null,have n't you
+3,null,null,"   continued Miss Smith
+4,happiness,glad,"  im so glad
+5,null,null,I think you look so nice
+6,null,null,You dont mind my saying that
+7,null,null,do you
+8,null,null,I always tell people what I think of them and then one knows where one is .
+926 11
+ (2, 3),
+1,null,null,"  Father
+2,sadness,disappointed,youll be badly disappointed in me
+3,null,null,i 've been feeling it coming all the time
+4,null,null,I cant help it
+5,null,null,im just like any one else
+6,null,null,I want to have a good time
+7,null,null,One 's only young once
+8,null,null,im awfully sorry
+9,null,null,I want to please you in any way I can
+10,null,null,but but it 's all gone all that early part
+11,null,null,It 's simply one 's childhood that 's finished with .  "
+928 9
+ (3, 3),
+1,null,null,What did Martin remember
+2,null,null,He remembered a good deal
+3,surprise,surprised,He was surprised when he began to think
+4,null,null,"  Did he remember
+5,null,null,his father suggested a scene
+6,null,null,a day yes
+7,null,null,he remembered that
+8,null,null,His father continued
+9,null,null,as though it had been for his own pleasure .
+931 11
+ (3, 3),
+1,null,null,Then when at last she had mounted the vehicle she would flood the conductor with a stream of little questions
+2,null,null,darting her eyes angrily at all her neighbours as though they were gathered there together to murder her at the earliest opportunity
+3,sadness,confused,She would be desperately confused when asked to pay for her ticket
+4,null,null,would be unable to find her purse
+5,null,null,and then when she discovered it would scatter its contents upon the ground
+6,null,null,In such an agony would she be at the threatened passing of her destination that she would spring up at every pause of the omnibus
+7,null,null,striking her nearest neighbour 's eye or nose with her umbrella
+8,null,null,apologising nervously
+9,null,null,and then
+10,null,null,because she thought she had been too forward with a stranger
+11,null,null,staring fiercely about her and daring any one to speak to her .
+935 5
+ (2, 2),
+1,null,null,Maggie soon discovered that Mr
+2,happiness,happy,Magnus was very happy to sit in their house even though Aunt Anne was not present
+3,null,null,His attitude seemed to be that the atmosphere that she left behind her was enough for him and that he could not
+4,null,null,in justice
+5,null,null,expect any more .
+946 7
+ (4, 2),
+1,null,null,"  they 've been to some meeting
+2,null,null,She stood looking at him with her fine steady gaze that had always made him afraid of her
+3,null,null,and did so
+4,surprise,surprise,to his own surprise
+5,null,null,again now
+6,null,null,He had thought that his clothes would have saved him from that
+7,null,null,his fingers felt at his button hole .
+952 6
+ (4, 4),
+1,null,null,He felt shame before her
+2,null,null,because he knew that she would believe every word that he said
+3,null,null,In that she was simple
+4,sadness,be bothered,but  "  he would be bothered if she was simple in anything else
+5,null,null,She had made up her mind he knew it as well as though she had told him to trust him absolutely
+6,null,null,and he knew well enough how little he was to be trusted .
+955 6
+ (3, 3),
+1,null,null,"  Look here
+2,null,null,"   he began
+3,surprise,surprised,and he was surprised at the hoarseness of his voice
+4,null,null,"  your uncle will be back in a moment
+5,null,null,and we never have a chance of being alone
+6,null,null,i 've wanted to talk to you ever since I first saw you .  "
+966 4
+ (1, 1),
+1,happiness,pleased,Maggie was maliciously pleased to observe that Miss Avies had not expected these additions to her number and was now in danger of an uncomfortable squashing
+2,null,null,there was
+3,null,null,indeed
+4,null,null,a polite little struggle between Miss Avies and Aunt Anne as to who should have the corner with a wooden arm upon which to rest .
+980 4
+ (1, 1),
+1,fear,panic,In a panic at these thoughts
+2,null,null,and feeling as though some one was trying to push her down into a coffin whilst she was still alive
+3,null,null,she began hurriedly to speak
+4,null,null,although she did not know whether her aunt were asleep or no .
+981 10
+ (3, 3),
+1,null,null,I would n't like to hurt your feelings
+2,null,null,Aunt Anne
+3,sadness,not happy,and it is n't that im not happy with you and Aunt Elizabeth
+4,null,null,but I ought to be earning my own living
+5,null,null,ought n't I
+6,null,null,And i 've only got my three hundred pounds
+7,null,null,have n't I
+8,null,null,im not complaining
+9,null,null,but I dont know about anything yet
+10,null,null,do I
+982 4
+ (1, 1),
+1,sadness,ashamed,Maggie felt ashamed of herself
+2,null,null,What desperate silly feelings had she allowed last night
+3,null,null,How much she had made of that service
+4,null,null,and how weak she was to give way so easily
+987 8
+ (5, 5),
+1,null,null,Then when I saw how you trusted me
+2,null,null,I thought i 'd be a cad and let it continue
+3,null,null,but somehow
+4,null,null,you 've got an influence over me
+5,sadness,ashamed,you 've made me ashamed of things I would n't have hesitated about a year ago
+6,null,null,And the funny thing is it is n't your looks
+7,null,null,I can say things to you I could n't to other women
+8,null,null,and i 'll tell you right away that there are lots of women attract me more .
+996 10
+ (7, 7),
+1,null,null,I cant help myself
+2,null,null,I love you
+3,null,null,Martin
+4,null,null,so that it 's like hunger or thirst
+5,null,null,It 's the only earthly passion that i 've ever had
+6,null,null,And i 'll tell you another thing
+7,fear,It 's the one terror,It 's the one terror of my earthly life that youll leave me
+8,null,null,Now that i 've got you back im afraid every time you go out of the house that youll run away
+9,null,null,round the corner
+10,null,null,and never come back again .
+1011 8
+ (2, 2),
+1,null,null,He stood there as though he were purposely giving her a portrait that she might remember for the rest of her days
+2,fear,nervous,She was too nervous to move and then she wanted that wonderful moment to last
+3,null,null,that moment when she had realised that he had come to meet her
+4,null,null,that he was there
+5,null,null,amongst all those crowds
+6,null,null,simply for her
+7,null,null,that he was looking for her and wanting her
+8,null,null,that he would be bitterly disappointed did she not come
+1021 4
+ (1, 1),
+1,sadness,conscious,He cleared his throat as though he were embarrassed and were conscious that he had been making a fool of himself
+2,null,null,Maggie felt that he was disappointed in her
+3,null,null,She was sorry for that
+4,null,null,but she was as she was .
+1046 8
+ (5, 5),
+1,null,null,The mist of anger dimmed the room
+2,null,null,it was in the potatoes and the cold dry mutton
+3,null,null,especially was it in the hard pallid knobs of cheese
+4,null,null,And Aunt Elizabeth
+5,fear,frightened,although she was frightened by her sister 's anger on this occasion
+6,null,null,shared in it
+7,null,null,She pursed her lips at Maggie and moved her fat
+8,null,null,podgy hand as though she would like to smack Maggie 's cheeks .
+1053 8
+ (3, 3),
+1,null,null,You know me better than any of them do and I am just as you know me
+2,null,null,every bit
+3,anger,angry,The aunts are very angry because they say I deceived them
+4,null,null,but they have n't any right to tell me who I shall love
+5,null,null,have they
+6,null,null,No one has
+7,null,null,I am myself and nobody 's ever cared for me except you and Uncle Mathew
+8,null,null,so I dont see why I should think of anybody .
+1055 8
+ (6, 7),
+1,null,null,She
+2,null,null,knowing nothing of the world
+3,null,null,could disregard it
+4,null,null,but HE knew
+5,null,null,knew that daily
+6,sadness,disappointments,hourly recurrence of alights and insults and disappointments
+7,null,null,knew what that life could make after a time of women in such a position
+8,null,null,even though she did not mind he would mind for her and would reproach himself continually .
+1066 4
+ (1, 1),
+1,surprise,surprised,When the last day of the year arrived Maggie was surprised at the strange excitement that she felt
+2,null,null,It was excitement
+3,null,null,not only because of the dim mysterious events that the evening promised
+4,null,null,but also because she was sure that this day would settle the loneliness of herself and Martin .
+1068 8
+ (8, 8),
+1,null,null,"  It 's a quarter past eleven
+2,null,null,It 's time to put on your things
+3,null,null,"   she said
+4,null,null,So she was to go
+5,null,null,She rose and
+6,null,null,in spite of herself
+7,null,null,her limbs were trembling and her teeth chattered
+8,surprise,surprise,To her surprise Aunt Anne bent forward and kissed her on the forehead .
+1069 5
+ (3, 3),
+1,null,null,"  Maggie
+2,null,null,"   she said
+3,sadness,sorry,"  if i 've been harsh to you during these weeks im sorry
+4,null,null,i 've done what I thought my duty
+5,null,null,but I would n't wish on this night that we should have any unkindness in our hearts towards one another .  "
+1078 7
+ (5, 6),(5, 7),
+1,null,null,"  You know that it 's better for me to go
+2,null,null,"   said Maggie
+3,null,null,"  We cant live together any more after what happened
+4,null,null,You and Aunt Elizabeth have been very very good to me
+5,sadness,disappointment,but you know now that im a disappointment
+6,null,null,I have n't ever fitted into the life here
+7,null,null,I never shall .  "
+1080 17
+ (16, 17),
+1,null,null,"  The life here is over
+2,null,null,"   said Aunt Anne
+3,null,null,"  Everything is over the house is dead
+4,null,null,Of course you must go
+5,null,null,If you feel  with me now or afterwards remember that I have lost every hope or desire I ever had
+6,null,null,I dont want your pity
+7,null,null,I want no one 's pity
+8,null,null,I wanted once your affection
+9,null,null,but I wanted it on my own terms
+10,null,null,That was wrong
+11,null,null,I do not want your affection any longer
+12,null,null,you were never the girl I thought you
+13,null,null,you 're a strange girl
+14,null,null,Maggie
+15,null,null,and you will have
+16,fear,afraid,I am afraid
+17,null,null,a very unhappy life .  "
+1087 6
+ (5, 2),
+1,null,null,When she was living with the aunts she had not minded very seriously the criticisms made upon her
+2,null,null,she had indeed been disappointed when Aunt Anne had not admired her new dress
+3,null,null,and she had hated Amy Warlock 's rudeness
+4,null,null,but that was because Martin had been involved
+5,sadness,worried,This new sensitiveness worried her
+6,null,null,she hated to care whether people laughed at the way she came into a room or whether she expressed foolish opinions about books and pictures .
+1089 7
+ (6, 7),
+1,null,null,He knew just where he was and exactly whither he was going
+2,null,null,One afternoon
+3,null,null,when they were out in the motor together
+4,null,null,he took Maggie 's hand under the rug and he held it so calmly
+5,null,null,so firmly
+6,happiness,could not be frightened,with so kindly a benevolence that she could not be frightened or uncomfortable
+7,null,null,He was like a large friendly brother
+1095 8
+ (1, 1),(7, 1),
+1,happiness,glad,"  im glad it 's not like Glebeshire
+2,null,null,"   said Maggie
+3,null,null,"  That 's a point in its favour
+4,null,null,I want to be somewhere where everything is quiet and orderly
+5,null,null,and every one knows their own mind and all the bells ring at the right time and no one 's strange or queer
+6,null,null,and most of all  where no one 's afraid of anything
+7,happiness,afraid,All my life i 've been with people who were afraid and i 've been afraid myself
+8,null,null,Now Paul and Grace are not afraid of anything .  "
+1100 4
+ (2, 2),
+1,null,null,Grace would be here in an hour
+2,surprise,Strange,Strange how throughout all these last days Maggie had been looking forward to that event with dread
+3,null,null,There was no definite reason for fear
+4,null,null,in London Grace had been kindness itself and had shown real affection for Maggie .
+1102 12
+ (4, 5),(12, 5),
+1,null,null,"  Yes
+2,null,null,it is
+3,null,null,"   said Maggie
+4,sadness,sorry,"  im so sorry
+5,null,null,I never knew it was your mother
+6,null,null,It wasnt a very good painting I thought
+7,null,null,so I took it down
+8,null,null,If I had known
+9,null,null,of course
+10,null,null,I never would have touched it
+11,null,null,Oh Grace
+12,sadness,sorry,I AM so sorry .  "
+1113 8
+ (6, 6),
+1,null,null,"  I dont want to curse you
+2,null,null,Caroline
+3,null,null,"   said Maggie
+4,null,null,"  Sit down
+5,null,null,Tea will be here in a minute
+6,sadness,unhappy,I was very unhappy about what you did
+7,null,null,but that 's all a long time ago now
+8,null,null,and I was to blame too .  "
+1119 8
+ (4, 4),
+1,null,null,She at once concluded that her husband had taken it and would shortly bring it back
+2,null,null,She waited for him till evening rather impatiently
+3,null,null,and wondering what could have kept him from her so long
+4,surprise,despair,When night came without him she felt in despair and abused the talisman and its maker roundly
+5,null,null,In spite of her grief and anxiety however
+6,null,null,she did not lose her presence of mind
+7,null,null,but decided on a courageous
+8,null,null,though very unusual step .
+1121 7
+ (3, 3),
+1,null,null,The prince took this advice
+2,null,null,and spent the rest of the day filling the fifty jars
+3,fear,fearing,and fearing lest the precious talisman might slip from his arm and be lost again
+4,null,null,he took the precaution of putting it in one of the jars
+5,null,null,on which he made a mark so as to be able to recognise it
+6,null,null,When night came the jars were all ready
+7,null,null,and the prince and his host went to bed .
+1127 7
+ (2, 2),
+1,null,null,"  My brother
+2,surprise,surprised,be not surprised to see us
+3,null,null,this is our land
+4,null,null,and as we came to get water from the river we noticed your raft floating down it
+5,null,null,and one of us swam out and brought you to the shore
+6,null,null,We have waited for your awakening
+7,null,null,tell us now whence you come and where you were going by that dangerous way
+1136 20
+ (4, 4),
+1,null,null,The knock was answered by Sadie
+2,null,null,with a taper in her hand
+3,null,null,and the vizir
+4,surprise,surprised,who was surprised at her beauty
+5,null,null,bowed low before her
+6,null,null,and said respectfully
+7,null,null,"  Madam
+8,null,null,we are three merchants who have lately arrived from Moussoul
+9,null,null,and
+10,null,null,owing to a misadventure which befel us this very night
+11,null,null,only reached our inn to find that the doors were closed to us till to-morrow morning
+12,null,null,Not knowing what to do
+13,null,null,we wandered in the streets till we happened to pass your house
+14,null,null,when
+15,null,null,seeing lights and hearing the sound of voices
+16,null,null,we resolved to ask you to give us shelter till the dawn
+17,null,null,If you will grant us this favour
+18,null,null,we will
+19,null,null,with your permission
+20,null,null,do all in our power to help you spend the time pleasantly .  "
+1142 6
+ (2, 2),
+1,null,null,Khacan
+2,happiness,overjoyed,overjoyed at this news
+3,null,null,gave orders that the slave should be brought for his inspection on his return from the palace
+4,null,null,The dealer appearing at the appointed hour
+5,null,null,Khacan found the slave beautiful beyond his expectations
+6,null,null,and immediately gave her the name of  "  The Fair Persian .  "
+1148 6
+ (2, 2),
+1,null,null,The Caliph
+2,surprise,surprised,much surprised at this request
+3,null,null,replied gently :    "  My good man
+4,null,null,that which you ask is impossible
+5,null,null,Of what use would my alms be if I treated you so ill
+6,null,null,"    And as he spoke he tried to loosen the grasp of the blind beggar .
+1165 12
+ (10, 10),
+1,null,null,Later
+2,null,null,in connection with the scheme to make Texas a State of the Union
+3,null,null,a bill was passed providing a contribution on the part of the United States of five million dollars
+4,null,null,to be applied to the extinguishment of this old debt
+5,null,null,Grund knew of this
+6,null,null,and also of the fact that some of this debt
+7,null,null,owing to the peculiar conditions of issue
+8,null,null,was to be paid in full
+9,null,null,while other portions were to be scaled down
+10,fear,frighten off,and there was to be a false or pre-arranged failure to pass the bill at one session in order to frighten off the outsiders who might have heard and begun to buy the old certificates for profit
+11,null,null,He acquainted the Third National Bank with this fact
+12,null,null,and of course the information came to Cowperwood as teller .
+1189 15
+ (10, 8),(10, 9),
+1,null,null,The occasion of the meeting was an evening call on the part of the Semples
+2,null,null,Mr
+3,null,null,Semple being desirous of talking with Henry Cowperwood concerning a new transportation feature which was then entering the world namely
+4,null,null,street cars
+5,null,null,A tentative line
+6,null,null,incorporated by the North Pennsylvania Railway Company
+7,null,null,had been put into operation on a mile and a half of tracks extending from Willow Street along Front to Germantown Road
+8,null,null,and thence by various streets to what was then known as the Cohocksink Depot
+9,null,null,and it was thought that in time this mode of locomotion might drive out the hundreds of omnibuses which now crowded and made impassable the downtown streets
+10,happiness,greatly interested,Young Cowperwood had been greatly interested from the start
+11,null,null,Railway transportation
+12,null,null,as a whole
+13,null,null,interested him
+14,null,null,anyway
+15,null,null,but this particular phase was most fascinating .
+1190 11
+ (9, 7),
+1,null,null,A tentative line
+2,null,null,incorporated by the North Pennsylvania Railway Company
+3,null,null,had been put into operation on a mile and a half of tracks extending from Willow Street along Front to Germantown Road
+4,null,null,and thence by various streets to what was then known as the Cohocksink Depot
+5,null,null,and it was thought that in time this mode of locomotion might drive out the hundreds of omnibuses which now crowded and made impassable the downtown streets
+6,null,null,Young Cowperwood had been greatly interested from the start
+7,null,null,Railway transportation
+8,null,null,as a whole
+9,happiness,interested him,interested him
+10,null,null,anyway
+11,null,null,but this particular phase was most fascinating .
+1196 17
+ (9, 6),(9, 8),
+1,null,null,Thereafter
+2,null,null,for a year or so
+3,null,null,Cowperwood bought his shoes of Mr
+4,null,null,Semple
+5,null,null,Occasionally also he stopped in the Chestnut Street store to exchange the time of the day
+6,null,null,Semple asked his opinion as to the advisability of buying some shares in the Fifth and Sixth Street line
+7,null,null,which
+8,null,null,having secured a franchise
+9,happiness,excitement,was creating great excitement
+10,null,null,Cowperwood gave him his best judgment
+11,null,null,It was sure to be profitable
+12,null,null,He himself had purchased one hundred shares at five dollars a share
+13,null,null,and urged Semple to do so
+14,null,null,But he was not interested in him personally
+15,null,null,He liked Mrs
+16,null,null,Semple
+17,null,null,though he did not see her very often .
+1207 12
+ (7, 5),
+1,null,null,"  Oh
+2,null,null,"   she sighed
+3,null,null,falling limp on his shoulder when he refused to let her go
+4,null,null,Then
+5,null,null,because of the set determination of his face
+6,null,null,some intense pull in him
+7,happiness,smiled,she smiled
+8,null,null,"  How would I ever explain if I did marry you
+9,null,null,"   she asked
+10,null,null,weakly
+11,null,null,"  Your father
+12,null,null,Your mother
+1216 27
+ (26, 1),
+1,null,null,Those who recall the early years of their married life can best realize the subtle changes which this new condition brought to Frank
+2,null,null,for
+3,null,null,like all who accept the hymeneal yoke
+4,null,null,he was influenced to a certain extent by the things with which he surrounded himself
+5,null,null,Primarily
+6,null,null,from certain traits of his character
+7,null,null,one would have imagined him called to be a citizen of eminent respectability and worth
+8,null,null,He appeared to be an ideal home man
+9,null,null,He delighted to return to his wife in the evenings
+10,null,null,leaving the crowded downtown section where traffic clamored and men hurried
+11,null,null,Here he could feel that he was well stationed and physically happy in life
+12,null,null,The thought of the dinner table with candles upon it ( his idea )
+13,null,null,the thought of Lillian in a trailing gown of pale blue or green silk he liked her in those colors
+14,null,null,the thought of a large fireplace flaming with solid lengths of cord wood
+15,null,null,and Lillian snuggling in his arms
+16,null,null,gripped his immature imagination
+17,null,null,As has been said before
+18,null,null,he cared nothing for books
+19,null,null,but life
+20,null,null,pictures
+21,null,null,trees
+22,null,null,physical contact these
+23,null,null,in spite of his shrewd and already gripping financial calculations
+24,null,null,held him
+25,null,null,To live richly
+26,happiness,joyously,joyously
+27,null,null,fully his whole nature craved that .
+1243 8
+ (6, 6),
+1,null,null,Intelligence
+2,null,null,of a raw
+3,null,null,crude order she had certainly also a native force
+4,null,null,tamed somewhat by the doctrines and conventions of current society
+5,null,null,still showed clear at times in an elemental and not entirely unattractive way
+6,happiness,decidedly attractive,At this time she was only eighteen years of age decidedly attractive from the point of view of a man of Frank Cowperwood 's temperament
+7,null,null,She supplied something he had not previously known or consciously craved
+8,null,null,Vitality and vivacity .
+1247 11
+ (7, 5),
+1,null,null,There were then two famous American sculptors
+2,null,null,Powers and Hosmer
+3,null,null,of whose work he had examples
+4,null,null,but Ellsworth told him that they were not the last word in sculpture and that he should look into the merits of the ancients
+5,null,null,He finally secured a head of David
+6,null,null,by Thorwaldsen
+7,happiness,delighted him,which delighted him
+8,null,null,and some landscapes by Hunt
+9,null,null,Sully
+10,null,null,and Hart
+11,null,null,which seemed somewhat in the spirit of his new world .
+1260 11
+ (5, 4),(6, 4),
+1,null,null,He did not know why he said this
+2,null,null,He was not especially poetic
+3,null,null,He had not formulated the phrase beforehand
+4,null,null,Since his first glimpse of her in the hall
+5,happiness,spirited,his feelings and ideas had been leaping and plunging like spirited horses
+6,happiness,set his teeth and narrow his eyes,This girl made him set his teeth and narrow his eyes
+7,null,null,Involuntarily he squared his jaw
+8,null,null,looking more defiant
+9,null,null,forceful
+10,null,null,efficient
+11,null,null,as she drew near
+1284 11
+ (3, 3),
+1,null,null,And yet
+2,null,null,as he had also learned
+3,sadness,ashamed of,she was ashamed of the passion that at times swept and dominated her
+4,null,null,This irritated Cowperwood
+5,null,null,as it would always irritate any strong
+6,null,null,acquisitive
+7,null,null,direct seeing temperament
+8,null,null,While he had no desire to acquaint the whole world with his feelings
+9,null,null,why should there be concealment between them
+10,null,null,or at least mental evasion of a fact which physically she subscribed to
+11,null,null,Why do one thing and think another
+1299 9
+ (4, 3),
+1,null,null,These two felt un utterably bound to each other
+2,null,null,Cowperwood
+3,null,null,once he came to understand her
+4,happiness,happily,fancied that he had found the one person with whom he could live happily the rest of his life
+5,null,null,She was so young
+6,null,null,so confident
+7,null,null,so hopeful
+8,null,null,so un dismayed
+9,null,null,All these months since they had first begun to reach out to each other he had been hourly contrasting her with his wife .
+1304 6
+ (5, 1),
+1,null,null,Things had changed considerably for him since the days when he had been fortuitously and almost indifferently made city treasurer
+2,null,null,His method of dressing had so much improved since he had been inducted into office
+3,null,null,and his manner expressed so much more good feeling
+4,null,null,confidence
+5,happiness,aplomb,aplomb
+6,null,null,that he would not have recognized himself if he had been permitted to see himself as had those who had known him before .
+1334 6
+ (2, 4),
+1,null,null,During this drive
+2,surprise,curiously,curiously
+3,null,null,by reason of one of those strange psychologic intuitions which so often precede a human difficulty of one sort or another
+4,null,null,he had been thinking of Aileen
+5,null,null,He was thinking of the peculiarity of his relationship with her
+6,null,null,and of the fact that now he was running to her father for assistance .
+1340 2
+ (2, 2),
+1,null,null,Grown-ups never understand anything by themselves
+2,disgust,tiresome,and it is tiresome for children to be always and forever explaining things to them .
+1344 10
+ (8, 7),
+1,null,null,He met her on a party
+2,null,null,She was so outstanding
+3,null,null,many guys chasing after her
+4,null,null,while he so average
+5,null,null,nobody paid attention to him
+6,null,null,At the end of the party
+7,null,null,he finally found courage to invite her to have coffee with him
+8,surprise,surprised,She was surprised
+9,null,null,but out of politeness
+10,null,null,she promised .
+1347 8
+ (6, 5),
+1,null,null,She didn
+2,null,null,t seem to be annoyed by my words
+3,null,null,instead she asked me softly
+4,null,null,why
+5,null,null,I avoided her question
+6,anger,angry,This made her angry
+7,null,null,She shouted at me
+8,null,null,± you are not a man
+1349 4
+ (4, 3),
+1,null,null,Finally
+2,null,null,in the middle of the night
+3,null,null,our own doctor came in and told us that it was fine to take Noah home
+4,happiness,We couldnt pack fast enough,We couldnt pack fast enough
+1352 1
+ (1, 1),
+1,disgust,annoyed,She was annoyed by his comments .
+1358 2
+ (1, 1),
+1,anger,cross,I was cross with him for not helping me
+2,null,null,as he said he would .
+1368 1
+ (1, 1),
+1,anger,irritated,I get so irritated when he changes TV channels without asking me first .
+1370 2
+ (2, 1),
+1,null,null,When you didnt turn up to the meeting
+2,sadness,let down,I felt really let down .
+1374 1
+ (1, 1),
+1,disgust,reluctant,im reluctant to buy a new car – the one we have is fine .
+1378 1
+ (1, 1),
+1,sadness,terrible,i 've got a blinding headache and I feel terrible .
+1381 1
+ (1, 1),
+1,happiness,wonderful,I felt wonderful after such a relaxing weekend .
+1386 1
+ (1, 1),
+1,sadness,worried,His mother became worried when she didnt hear from him for two days .
+1392 4
+ (1, 2),
+1,anger,furious,I am absolutely furious
+2,null,null,I cannot believe that my dog chewed my favorite shoes
+3,null,null,Now theyre ruined
+4,null,null,Now theyre ruined
+1395 2
+ (1, 1),
+1,fear,stressed,When Emily has a lot of work to do and feels stressed
+2,null,null,she becomes very tense and cannot relax .
+1405 2
+ (2, 1),
+1,null,null,When I found out that Santa Claus wasnt real
+2,sadness,disappointed,I was so disappointed that all of the presents really came from my parents and not the North Pole .
+1418 2
+ (2, 2),
+1,null,null,Walking to the bank to deposit money makes me very uneasy
+2,fear,scared,im always scared someone is going to rob me .
+1430 4
+ (3, 2),
+1,null,null,Chilly winds passed hard by and whispered in my ears
+2,null,null,the end
+3,sadness,sick,My throat gathered a lump and my heart felt sick
+4,null,null,The trouble that life brought seemed too much to bear .
+1434 3
+ (3, 3),
+1,null,null,But that afternoon i had to leave for Chicago to attend an important conference
+2,null,null,so i told my grandmother that i would hear her story when i return back after three days
+3,sadness,painful,It was quite painful for me to leave her but i was compelled my office .
+1439 3
+ (1, 1),
+1,happiness,happy,I was happy that my grandma had finally found her love
+2,null,null,she said " I am so thankful to God for giving me this moment of love
+3,null,null,At least i would have my last wish fulfilled "  .
+1456 4
+ (3, 1),
+1,null,null,One day he called my cousin who was living in Texas and told her that he reconnected with a lady from a church that he and my aunt went to forty years previously
+2,null,null,He said he just wanted someone to go out to dinner with and spend time with
+3,happiness,happy,We were happy for them but had no idea how it would turn out
+4,null,null,They were both almost eighty-seven years old .
+1458 7
+ (5, 4),
+1,null,null,The clash in their relationship came when they neither wanted to leave their respective churches
+2,null,null,She went to her Baptist church that she had attended for many years and he went to his
+3,null,null,which was a Pentecostal
+4,null,null,They decided to remain friends but nothing more
+5,sadness,broken-hearted,He was broken-hearted
+6,null,null,but felt that his religion was the only way
+7,null,null,She didnt want to leave her church and didnt like the extreme of his .
+1462 5
+ (3, 3),
+1,null,null,Once a kid used to live with his mother
+2,null,null,They were poor and could earn just to manage their needs
+3,sadness,embarrassment,Mother had only one eye and because of that kid used to thing of her as embarrassment
+4,null,null,One day when Mother went to kid 's school
+5,null,null,everyone in school laughed at him and taunted about his mother having only one eye .
+1470 6
+ (5, 3),(5, 4),
+1,null,null,Until one day
+2,null,null,his girl told him she was going to Paris and will never come back
+3,null,null,She also told him that she cannot visualize any future for the both of them
+4,null,null,so they went their own ways there and then
+5,sadness,Heartbroken,Heartbroken
+6,null,null,the guy agreed .
+1480 11
+ (7, 8),
+1,null,null,As regards language
+2,null,null,versification
+3,null,null,and general spirit
+4,null,null,the matter is beyond controversy
+5,null,null,but when we come to consider the incidents of the story
+6,null,null,we find deviations from Homer even more serious than any of those from the Cyclic poets
+7,surprise,strange,And the strange thing is
+8,null,null,that each of these deviations is a manifest detriment to the perfection of his poem
+9,null,null,in each of them the writer has missed
+10,null,null,or has rejected
+11,null,null,a magnificent opportunity .
+1503 5
+ (2, 2),
+1,null,null,Yea
+2,sadness,wrung,and achilles ' very heart was wrung With love 's remorse to have slain a thing so sweet
+3,null,null,Who might have borne her home
+4,null,null,his queenly bride
+5,null,null,To chariot glorious Phthia .
+1517 5
+ (4, 4),
+1,null,null,Forthright he turned away From where the rifted ranks of Troy fell fast Before his hands
+2,null,null,and
+3,null,null,thirsting for the fight
+4,anger,Wroth,Wroth for Antilochus and the others slain
+5,null,null,Came face to face with Memnon .
+1539 4
+ (3, 4),
+1,null,null,Fast On sped they to their goal
+2,null,null,with awesome cry Wailing the while their sister 's mighty son
+3,sadness,grief,Swiftly from Helicon the Muses came heart burdened with undying grief
+4,null,null,for love And honour to the Nereid starry eyed .
+1542 5
+ (5, 5),
+1,null,null,For out of depths of sorrow rose their moan
+2,null,null,And all the armour
+3,null,null,yea
+4,null,null,the tents
+5,sadness,sorrowing,the ships Of that great sorrowing multitude were wet With tears from ever welling springs of grief .
+1545 2
+ (2, 2),
+1,null,null,Nor stayed the immortal steeds of aeacus ' son Tearless beside the ships
+2,sadness,mourned,they also mourned Their slain king :  sorely loth were they to abide Longer mid mortal men or Argive steeds Bearing a burden of consuming grief .
+1587 3
+ (1, 1),
+1,sadness,undeserved,The good man oft is whelmed In suffering :  wealth undeserved is heaped On the vile person
+2,null,null,Blind is each man 's life
+3,null,null,Therefore he never walketh surely .
+1589 4
+ (2, 2),
+1,null,null,But in a several place The multitude of heroes slain they laid
+2,sadness,Mourning,Mourning with stricken hearts
+3,null,null,On one great pyre They burnt them all
+4,null,null,and buried in one grave .
+1598 3
+ (2, 2),
+1,null,null,Then kissed he him
+2,happiness,panted,nor sought to stay the feet Of him who panted for the clamour of war
+3,null,null,Who smiled for pleasure and for eagerness To haste to the ship .
+1638 6
+ (3, 3),
+1,null,null,Then did the Goddess strike him utterly blind
+2,null,null,Stared his fixed eyeballs white from pits of blood
+3,sadness,groaned,And all folk groaned for pity of their friend
+4,null,null,And dread of the prey giver
+5,null,null,lest he had sinned In folly against her
+6,null,null,and his mind was thus Warped to destruction yea .
+1648 4
+ (3, 3),
+1,null,null,This should offend The Prayers
+2,null,null,the Daughters of the Thunderer Zeus
+3,anger,anger,Whose anger followeth unrelenting pride With vengeance
+4,null,null,and the Erinnys executes Their wrath .
+1649 8
+ (4, 5),
+1,null,null,Yea
+2,null,null,for through thee
+3,null,null,thou miscreant
+4,sadness,sorrow,sorrow came On deathless Gods
+5,null,null,for sons and sons ' sons slain
+6,null,null,Hence from my threshold
+7,null,null,to thine Helen go
+8,null,null,Agonize day and night beside her bed .
+1699 5
+ (4, 5),
+1,null,null,My Lord Peterborough is come unexpected from Tangier
+2,null,null,to give the King an account of the place
+3,null,null,which
+4,fear,fear,we fear
+5,null,null,is in none of the best condition We had also certain news to-day that the Spaniard is before Lisbone with thirteen sayle .
+1703 3
+ (2, 3),
+1,null,null,No more Cared they for deeds of men
+2,sadness,cried,but cried to the Gods For swift feet
+3,null,null,in whose feet alone was hope To escape eurymachus ' and aeneas ' spears Which lightened ever all along their rear .
+1707 4
+ (3, 3),
+1,null,null,Fate forbade That hero any longer to contend With Argive foes without the high built wall
+2,null,null,Yea
+3,fear,feared,and his mother sorely feared the wrath Of Pallas passing wise
+4,null,null,whose heart was keen To help the Danaans now  .
+1718 2
+ (2, 2),
+1,null,null,So without sound of voices marched they on Unto the trojans ' fortress
+2,happiness,eager,eager all To help those mighty chiefs with foes begirt .
+1725 9
+ (4, 4),
+1,null,null,The third mate was nothing much but bad temper not much sailor
+2,null,null,nor much whaler
+3,null,null,generally in hot water with the skipper
+4,disgust,hated,who hated him because he was an  "  owner 's man
+5,null,null,"  An de fourf mate
+6,null,null,"   wound up the narrator
+7,null,null,straightening his huge bulk
+8,null,null,"  am de best man in de ship
+9,null,null,and de biggest .
+1726 4
+ (2, 2),
+1,null,null,It was a splendid picture
+2,happiness,glad,but for the time I felt glad I was not on board of her
+3,null,null,a very few minutes she was out of our ken
+4,null,null,followed by the admiration of all .
+1736 5
+ (1, 3),
+1,happiness,happy,When we got on board we felt quite happy
+2,null,null,and
+3,null,null,for the first time since leaving America
+4,null,null,we had a little singing
+5,null,null,all I be laughed at when I confess that our musical efforts were confined to Sankey 's hymns
+1751 7
+ (2, 3),(2, 4),
+1,null,null,As far as I could judge
+2,happiness,happiest,they were the happiest of people
+3,null,null,literally taking no thought for the morrow and content with the barest necessaries of life
+4,null,null,so long as they were free and the sun shone brightly
+5,null,null,We had many opportunities of cultivating their acquaintance
+6,null,null,for the captain allowed us much liberty
+7,null,null,quite one half of the crew and officers being ashore most of the time .
+1780 11
+ (8, 8),
+1,null,null,Now
+2,null,null,with us
+3,null,null,whenever the weather was doubtful or squally looking
+4,null,null,we shortened sail
+5,null,null,and kept it fast till better weather came along
+6,null,null,being quite careless whether we made one mile a day or one hundred
+7,null,null,But just because nobody took any notice of our progress as the days passed
+8,fear,startled,we were occasionally startled to find how far we had really got
+9,null,null,This was certainly the case with all of us forward
+10,null,null,even to me who had some experience
+11,null,null,so well used had I now become to the leisurely way of getting along .
+1795 11
+ (7, 7),(7, 8),
+1,null,null,It was but a school of kogia
+2,null,null,or  "  short headed "   cachalots
+3,null,null,but as we secured five of them
+4,null,null,averaging seven barrels each
+5,null,null,with scarcely any trouble
+6,null,null,I felt quite pleased with myself
+7,happiness,exciting,We had quite an exciting bit of sport with them
+8,null,null,they were so lively
+9,null,null,but as for danger well
+10,null,null,they only seemed like big  "  black fish "   to us now
+11,null,null,and we quite enjoyed the fun .
+1808 8
+ (5, 5),
+1,null,null,Once clear of the southern end of Formosa we had quite a rapid run to the Bonins
+2,null,null,carrying a press of sail day and night
+3,null,null,as the skipper was anxious to arrive there on account of his recent injuries
+4,null,null,He was still very lame
+5,fear,feared,and he feared that some damage might have been done to him of which he was ignorant
+6,null,null,Besides
+7,null,null,it was easy to see that he did not altogether like anybody else being in charge of his ship
+8,null,null,no matter how good they were .
+1813 4
+ (4, 3),
+1,null,null,This sort of thing was right in his line
+2,null,null,Naturally cruel
+3,null,null,he seemed to thoroughly enjoy himself in the prospect of making human beings twist and writhe in pain
+4,happiness,pleasure,Nor would he be baulked of a jot of his pleasure .
+1822 6
+ (5, 5),
+1,null,null,Consequently the state of the ship was filthy
+2,null,null,nor could all our efforts keep her clean
+3,null,null,This farmyard condition of things was permitted to continue for about a week
+4,null,null,when the officers got so tired of it
+5,anger,annoyed,and the captain so annoyed at the frequent loss of fowls by their flying overboard
+6,null,null,that the edict went forth to feed the foremast hands on poultry till further orders .
+1828 12
+ (8, 8),
+1,null,null,We took them on board
+2,null,null,and the boat returned again
+3,null,null,By the time the slack came we had about four hundred and fifty fathoms out a goodly heap to pile up loose in our stern sheets
+4,null,null,I felt sure
+5,null,null,however
+6,null,null,that we should have but little more trouble with our fish
+7,null,null,in fact
+8,fear,afraid,I was half afraid that he would die before getting to the surface
+9,null,null,in which case he might sink and be lost
+10,null,null,We hauled steadily away
+11,null,null,the line not coming in very easily
+12,null,null,until I judged there was only about another hundred fathoms out .
+1831 6
+ (4, 5),(4, 6),
+1,null,null,The accident was the fruit of gross carelessness
+2,null,null,and should never have occurred
+3,null,null,but then
+4,surprise,strange,strange to say
+5,null,null,disasters to whale boats are nearly always due to want of care
+6,null,null,the percentage of unavoidable casualties being very small as compared with those like the one just related .
+1837 7
+ (3, 3),
+1,null,null,The captain shook hands with me cordially
+2,null,null,pooh poohing the loss of the boat as an unavoidable incident of the trade
+3,happiness,delight,but expressing his heart-felt delight at getting us all back safe
+4,null,null,The whale we had killed was ample compensation for the loss of several boats
+5,null,null,though such was the vigour with which the sharks were going for him
+6,null,null,that it was deemed advisable to cut in at once
+7,null,null,working all night .
+1843 7
+ (4, 4),
+1,null,null,News of our coming had preceded us
+2,null,null,and the whole native population appeared to be afloat to make us welcome
+3,null,null,The air rang again with their shouts of rejoicing
+4,happiness,gorgeous feast,for our catch represented to them a gorgeous feast
+5,null,null,such as they had not indulged in for many a day
+6,null,null,The flesh of the humpbacked whale is not at all bad
+7,null,null,being but little inferior to that of the porpoise
+1845 9
+ (6, 6),
+1,null,null,But we lost no time in getting back to the ship
+2,null,null,where I fully expected a severe wigging for the scrape my luckless curiosity had led me into
+3,null,null,The captain
+4,null,null,however
+5,null,null,was very kind
+6,happiness,pleasure,expressing his pleasure at seeing us all safe back again
+7,null,null,although he warned me solemnly against similar investigations in future
+8,null,null,A hearty meal and a good rest did wonders in removing the severe effects of our adventure
+9,null,null,so that by next morning we were all fit and ready for the days work again .
+1853 4
+ (1, 1),
+1,surprise,startling,Its effect upon him was startling and immediate
+2,null,null,He rushed off at so furious a rate dead to windward that for a great while we had all our work cut out to keep her free by baling
+3,null,null,The sea had risen a little
+4,null,null,and as we leapt from one wave to another the spray flew over us in an almost continuous cloud .
+1870 11
+ (10, 10),
+1,null,null,For the next four days and nights
+2,null,null,during which the wind prevented the CHANCE from leaving us
+3,null,null,our old ship was a scene of wild revelry
+4,null,null,that ceased not through the twenty-four hours  revelry entirely unassisted by strong waters
+5,null,null,too
+6,null,null,the natural ebullient gaiety of men who were free from anxiety on any account whatever
+7,null,null,rejoicing over the glad consummation of more than two years toil
+8,null,null,on the one hand
+9,null,null,on the other
+10,happiness,joy,a splendid sympathy in joy manifested by the satisfied crew under the genial command of Captain Gilroy
+11,null,null,With their cheerful help we made wonderful progress
+1871 11
+ (8, 8),
+1,null,null,dirtier
+2,null,null,gloomier
+3,null,null,and colder grew the weather
+4,null,null,until
+5,null,null,reduced to two topsails and a reefed foresail
+6,null,null,we were scudding dead before the gale for all we were worth
+7,null,null,This was a novel experience for us in the CACHALOT
+8,surprise,curious,and I was curious to see how she would behave
+9,null,null,To my mind
+10,null,null,the supreme test of a ship 's sea kindliness is the length of time she will scud before a gale without  "  pooping "   a sea
+11,null,null,or taking such heavy water on board over her sides as to do serious damage .
+1876 10
+ (8, 8),
+1,null,null,These lines seemed all the deeper to-night
+2,null,null,Only a few hours before
+3,null,null,Richard had come to her
+4,null,null,while Malachi was arranging his clothes
+5,null,null,with the joyful news of a new device which he had developed during the day for his motor
+6,null,null,He could hardly wait to tell her
+7,null,null,he had said
+8,happiness,joyful,The news was anything but joyful to her
+9,null,null,She knew what it meant she knew what sums had been wasted on the other devices
+10,null,null,involving losses which at this time they could so little afford .
+1878 8
+ (4, 4),
+1,null,null,He believes the time will come when they will value his pictures
+2,null,null,and be proud to own them
+3,null,null,But I dont care who owns mine
+4,happiness,fun,I just want the fun of painting them
+5,null,null,Just think of what a man can do with a few tubes of color
+6,null,null,a brush
+7,null,null,and a bit of canvas
+8,null,null,So I dont care if they never buy what I paint .
+1892 5
+ (2, 1),
+1,null,null,Ragnar showed on this occasion the most merciful moderation towards the slayer of his dearest son
+2,happiness,satisfied,since he sufficiently satisfied the vengeance which he desired
+3,null,null,by the exile of the culprit rather than his death
+4,null,null,This compassion shamed the Russians out of any further age against such a king
+5,null,null,who could not be driven even by the most grievous wrongs to inflict death upon his prisoners .
+1897 7
+ (3, 3),
+1,null,null,Then
+2,null,null,to prevent any more troublesome business delaying his hopes of marriage
+3,happiness,enjoyed,he went back to Gewar and enjoyed the coveted embraces of Nanna
+4,null,null,Next
+5,null,null,having treated Helgi and Thora very generously
+6,null,null,he brought his new queen back to Sweden
+7,null,null,being as much honoured by all for his victory as Balder was laughed at for his flight .
+1901 11
+ (3, 3),(3, 6),
+1,null,null,He had several times taken caravans to Karague
+2,null,null,and knew all the languages well
+3,sadness,unfortunately,but unfortunately he afterwards proved to be what his name implied
+4,null,null,That
+5,null,null,however
+6,null,null,I could not foresee
+7,null,null,so
+8,null,null,trusting to him and good-luck
+9,null,null,I commenced making fresh enlistments of porters
+10,null,null,but they came and went in the most tantalising manner
+11,null,null,notwithstanding I offered three times the hire that any merchant could afford to give .
+1905 13
+ (8, 7),
+1,null,null,No one knew of a lake to supply the waters
+2,null,null,nor where they came from
+3,null,null,That they flowed into the lake there was no doubt as I could see by the trickling waters in some few places and they lay exactly on the equator
+4,null,null,Rising out of the valley
+5,null,null,I found all the country just as hilly as before
+6,null,null,but many of the rush drains going to northward
+7,null,null,and in the dells were such magnificent trees
+8,surprise,surprise,they quite took me by surprise
+9,null,null,clean trunked
+10,null,null,they towered up just as so many great pillars
+11,null,null,and then spread out their high branches like a canopy over us
+12,null,null,I thought of the blue gums of Australia
+13,null,null,and believed these would beat them .
+1926 7
+ (5, 5),
+1,null,null,Let me say
+2,null,null,then
+3,null,null,as briefly as possible
+4,null,null,that I accompanied the engineer into the interior of the mine
+5,happiness,fascinated,and became so strangely fascinated by its gloomy wonders
+6,null,null,and so interested in my friend 's explorations
+7,null,null,that I prolonged my stay in the neighbourhood .
+1935 16
+ (2, 1),
+1,null,null,I drew a large white and black hornbill and a green pigeon sent by himself
+2,sadness,not satisfied,but he was not satisfied
+3,null,null,he sent more birds
+4,null,null,and wanted to see my shoes
+5,null,null,The pages who came with the second message
+6,null,null,however
+7,null,null,proving impertinent
+8,null,null,got a book flung at their heads
+9,null,null,and a warning to be off
+10,null,null,as I intended to see the king myself
+11,null,null,and ask for food to keep my ever complaining Wanguana quiet
+12,null,null,Proceeding to the palace
+13,null,null,as I found Mtesa had gone out shooting
+14,null,null,I called on the Kamraviona
+15,null,null,complained that my camp was starving
+16,null,null,and as I had nothing left to give the king said I wished to leave the country .
+1938 7
+ (3, 6),
+1,null,null,It wasnt that they could show him anything
+2,null,null,it was  only that they could burn clear
+3,surprise,surprise,To his surprise
+4,null,null,however
+5,null,null,after a  while
+6,null,null,they did show him something :   the arch of a high doorway  approached by a low terrace of steps
+7,null,null,in the depth of which - it  formed a dim vestibule - the raising of a curtain at the moment he  passed gave him a glimpse of an avenue of gloom with a glow of  tapers at the end .
+1942 14
+ (13, 14),
+1,null,null,Bruno thought about it
+2,null,null,' well
+3,null,null,I would n't like it if you were n't there
+4,null,null,' he said
+5,null,null,because that was the truth
+6,null,null,' so you 'd prefer to stay here with me
+7,null,null,i 'd prefer all four of us to stay together
+8,null,null,' he said
+9,null,null,reluctantly including Gretel in that
+10,null,null,' whether that was in Berlin or out with
+11,null,null,' oh
+12,null,null,Bruno
+13,anger,exasperated,' said Gretel in an exasperated voice
+14,null,null,and he didnt know whether that was because he might be spoiling the plans for their return or because ( according to her ) he continued to mispronounce the name of their home .
+1974 13
+ (7, 5),(7, 6),
+1,null,null,' does the marching go on for long
+2,null,null,' he whispered because he was beginning to feel quite hungry now
+3,null,null,' i dont think so
+4,null,null,' said Shmuel
+5,null,null,' i never see the people after they 've gone on a march
+6,null,null,But I would n't imagine it does
+7,surprise,frowned,Bruno frowned
+8,null,null,He looked up at the sky
+9,null,null,and as he did so there was another loud sound
+10,null,null,this time the sound of thunder overhead
+11,null,null,and just as quickly the sky seemed to grow even darker
+12,null,null,almost black
+13,null,null,and rain poured down even more heavily than it had in the morning .
+1981 3
+ (1, 1),(1, 3),
+1,fear,agitated,Elennor was very agitated about it because it involved a life even though
+2,null,null,as she acknowledged
+3,null,null,it was the life of a murderer .
+1985 4
+ (4, 3),
+1,null,null,At the 108th stroke
+2,null,null,it would be 0
+3,null,null,on the dot on New Year 's Day
+4,happiness,cheering and hurrahing in delight,Instantly the Japanese tourists would burst out cheering and hurrahing in delight .
+2036 2
+ (1, 1),
+1,fear,panic,The collapse of the bank caused ( a ) panic on the Stock Exchange
+2,null,null,ie the value of shares fell quickly .
+2045 1
+ (1, 1),
+1,happiness,amused,The boys amused themselves by sliding down the banister .
+2103 6
+ (4, 6),
+1,null,null,"  The right of parents is with those that have done the duty of parents
+2,null,null,"   returned Johanna
+3,null,null,"  What said the kid in the fable to the goat that claimed her from the sheep that bred her up
+4,disgust,ashamed,I am ashamed of you
+5,null,null,house father
+6,null,null,for not better loving your own niece  .  "
+2115 14
+ (13, 13),
+1,null,null,"  O let me see
+2,null,null,"   cried the young lady eagerly
+3,null,null,and Sir Eberhard
+4,null,null,walking off
+5,null,null,presently returned with an armful of the beautiful brindled furs of the mountain cat
+6,null,null,reminding Christina of her aunt 's gentle domestic favourite
+7,null,null,Ermentrude sat up
+8,null,null,and regarded the placing out of them with great interest
+9,null,null,and thus her brother left her employed
+10,null,null,and so much delighted that she had not flagged
+11,null,null,when a great bell proclaimed that it was the time for the noon tide meal
+12,null,null,for which Christina
+13,fear,fears,in spite of all her fears of the company below stairs
+14,null,null,had been constrained by mountain air to look forward with satisfaction .
+2125 4
+ (2, 2),
+1,null,null,Yet his zeal for certain studies was remarkable
+2,surprise,astounded,and within eccentric limits his knowledge was so extraordinarily ample and minute that his observations have fairly astounded me
+3,null,null,Surely no man would work so hard or attain such precise information unless he had some definite end in view
+4,null,null,Desultory readers are seldom  remarkable for the exactness of their learning .
+2132 7
+ (4, 4),(4, 5),
+1,null,null,She was too well acquainted with her father 's impetuosity to venture a  second intrusion
+2,null,null,When she had a little recovered the shock of so  bitter a reception
+3,null,null,she wiped away her tears to prevent the additional  stab that the knowledge of it would give to Hippolita
+4,fear,in the most anxious,who questioned  her in the most anxious terms on the health of Manfred
+5,null,null,and how he  bore his loss
+6,null,null,Matilda assured her he was well
+7,null,null,and supported his  misfortune with manly fortitude .
+2137 9
+ (4, 2),(4, 3),
+1,null,null,Manfred
+2,null,null,who concluded that he had either over reached the good man
+3,null,null,or that his first warmth had been but a tribute paid to appearance
+4,happiness,overjoyed,was overjoyed at this sudden turn
+5,null,null,and repeated the most magnificent  promises
+6,null,null,if he should succeed by the Friar 's mediation
+7,null,null,The well-meaning priest suffered him to deceive himself
+8,null,null,fully determined to  traverse his views
+9,null,null,instead of seconding them .
+2138 14
+ (6, 6),
+1,null,null,They came up as the Knight  fell
+2,null,null,whom they soon discovered to be the noble stranger
+3,null,null,Theodore
+4,null,null,notwithstanding his hatred to Manfred
+5,null,null,could not behold the victory he  had gained without emotions of pity and generosity
+6,happiness,more  touched,But he was more  touched when he learned the quality of his adversary
+7,null,null,and was informed  that he was no retainer
+8,null,null,but an enemy
+9,null,null,of Manfred
+10,null,null,He assisted the  servants of the latter in disarming the Knight
+11,null,null,and in endeavouring to  stanch the blood that flowed from his wounds
+12,null,null,The Knight recovering  his speech
+13,null,null,said
+14,null,null,in a faint and faltering voice .
+2140 10
+ (8, 8),
+1,null,null,The Princess
+2,null,null,who had been transported at hearing the voice of  Theodore
+3,null,null,as he called to her to come forth
+4,null,null,was astonished at what  she heard
+5,null,null,Suffering herself to be conducted by Theodore
+6,null,null,the new  proof of whose valour recalled her dispersed spirits
+7,null,null,she came where  the bleeding Knight lay speechless on the ground
+8,fear,fears,But her fears  returned when she beheld the domestics of Manfred
+9,null,null,She would again  have fled if Theodore had not made her observe that they were unarmed
+10,null,null,and had not threatened them with instant death if they should dare to  seize the Princess .
+2150 2
+ (2, 1),
+1,null,null,My girlfriend dumped me
+2,sadness,sad,I am so sad because she a total babe
+2151 2
+ (1, 2),
+1,disgust,upset,I am just so upset
+2,null,null,We have to cancel our Aug trip to Yellowstone because of some unexpected bills and gas prices .
+2162 5
+ (2, 5),
+1,null,null,During the days that they stayed at their aunts house
+2,sadness,crying,the children heard Mom crying several times
+3,null,null,One day she left them in Sheilas care for several hours
+4,null,null,saying that she had some errands to run
+5,null,null,( But in fact she was going to court to obtain an order removing their father from the home because of his threats .  )
+2180 4
+ (2, 3),
+1,null,null,In a peak of frustration one day
+2,anger,yelled,Kaleigh yelled at her son
+3,null,null," Youre turning out just like your father
+4,null,null,"
+2186 4
+ (1, 2),(1, 3),
+1,happiness,her tenacity bore fruit,And her tenacity bore fruit
+2,null,null,by the time they had been out from under Felixs heavy hand for five or six months
+3,null,null,they were starting to get back toward calm and closeness
+4,null,null,Healing was unfolding as it should .
+2188 3
+ (1, 1),
+1,happiness,happy,The children were happy that Felix had returned to them
+2,null,null,For the first few months he put a great deal of energy into making the visits fun
+3,null,null,and was much more patient with the children that he had been when the family was together .
+2196 12
+ (12, 1),(12, 2),(12, 3),
+1,null,null,I found the former cuirassier stretched out at full length on the carpet
+2,null,null,his face covered with blood
+3,null,null,and as lifeless as if he had received a blow on the head from a pole - axe
+4,null,null,He must have been very tall when he was standing
+5,null,null,lying there
+6,null,null,he looked enormous
+7,null,null,Handsome features
+8,null,null,magnificent teeth
+9,null,null,a fleece of curly white hair
+10,null,null,eighty years with the appearance of sixty
+11,null,null,Beside him was his granddaughter
+12,sadness,bathed in tears,on her knees and bathed in tears .
+2201 3
+ (2, 3),
+1,null,null,"  Just a moment
+2,surprise,startled,The voice was soft and deadly and a startled Sliver didnt at first realize it came from the Preacher who added
+3,null,null,"  You been cheating all night and if you take that money now you can add thievery to the deed .  "
+2207 6
+ (2, 6),
+1,null,null,Sliver Pete simply fell apart
+2,fear,terror,He gave a strangled squeak of terror
+3,null,null,dropped his gun
+4,null,null,whirled on his heels and ran up the street until he was out of sight
+5,null,null,True
+6,null,null,there was blood on his forehead but with one sweep of his sleeve it mysteriously disappeared .
+2212 2
+ (1, 1),
+1,sadness,sad,Fern grows sad when Wilbur grows up and has to be sent away to a farm owned by her uncle
+2,null,null,She has a strong relationship with Wilbur .
+2221 5
+ (1, 3),
+1,sadness,pain,We hear about her pain
+2,null,null,She talks about her first kiss
+3,null,null,people who lied to her and stole from her
+4,null,null,Everything started with gossip
+5,null,null,The gossip then grew and became out of control .
+2235 2
+ (2, 1),
+1,null,null,The child peered over the edge of the bed and saw the edge of a small dark puddle of liquid
+2,happiness,smiled,The child smiled .
+2237 3
+ (2, 3),
+1,null,null,I picked the bud and touched her glass gently with the tip of the rosy petal
+2,happiness,laughed,She laughed
+3,null,null,"   but you just said I had most beautiful eyes "  .
+2239 6
+ (6, 1),(6, 2),
+1,null,null,There was a slight noise
+2,null,null,something like low growl
+3,null,null,coming from the other room
+4,null,null,It was in this room where he had placed the cage and the Tiger Cat
+5,null,null,Suddenly
+6,fear,I felt a shiver along my spine,I felt a shiver along my spine .
+2254 6
+ (3, 2),
+1,null,null,So acutely did Mrs
+2,null,null,Dashwood feel this ungracious behaviour
+3,disgust,despise,and so earnestly did she despise her daughter-in-law for it
+4,null,null,that
+5,null,null,on the arrival of the latter
+6,null,null,she would have quitted the house forever .
+2267 1
+ (1, 1),
+1,fear,concerns over,ChemChina allayed some concerns over the longer-term financing for the deal were last week when it announced that it had issued $20bn in perpetual bonds and preference shares to pay for acquisition .
+2275 2
+ (2, 2),
+1,null,null,A poll of 1
+2,fear,upset with,254 employees by the job portal site CareerNet found that 74 percent of men felt upset with the attire of their female co-workers .
+2280 6
+ (3, 3),
+1,null,null,Chu
+2,null,null,Chen 's mother
+3,happiness,was proud,was proud after hearing of her son 's actions
+4,null,null,"  My son is a good boy and his behavior was right
+5,null,null,We will definitely pay for the repairs
+6,null,null,"   Chu said .
+2287 3
+ (3, 1),
+1,null,null,BEIJING   The emotional disintegration of a 17 month old boy named John as he sought and failed to find comfort from caregivers in a British boarding nursery
+2,null,null,captured in a 1969 documentary film
+3,sadness,deeply distressed,deeply distressed the Chinese women at a seminar last week on early childhood separation .
+2294 4
+ (2, 3),
+1,null,null,Ann walks back to the bed
+2,sadness,dejected,dejected
+3,null,null,as the Countess shuts the window
+4,null,null,The Countess holds a tray .
+2333 2
+ (1, 2),
+1,happiness,were happy,We normally dont have monsoons in Swat and at first we were happy
+2,null,null,thinking the rain would mean a good harvest .
+2346 2
+ (2, 2),
+1,null,null,When we entered the shop we were going to
+2,fear,got scared,the shopkeeper laughed and told us he got scared thinking we might be suicide bombers as many suicide bombers wore the burqa . '
+2369 5
+ (1, 2),
+1,anger,was furious,Hidayatullah was furious
+2,null,null,You saved this womans husband but not your own house
+3,null,null,he said
+4,null,null,Was it because of the cry of a woman
+5,null,null,.
+2380 11
+ (7, 10),
+1,null,null,Under these unpromising auspices
+2,null,null,the parting took place
+3,null,null,and the journey began
+4,null,null,It was performed with suitable quietness and uneventful safety
+5,null,null,Neither robbers nor tempests befriended them
+6,null,null,nor one lucky overturn to introduce them to the hero
+7,fear,fear,Nothing more alarming occurred than a fear
+8,null,null,on Mrs
+9,null,null,Allen 's side
+10,null,null,of having once left her clogs behind her at an inn
+11,null,null,and that fortunately proved to be groundless .
+2385 11
+ (1, 3),
+1,sadness,uncomfortable,"  How uncomfortable it is
+2,null,null,"   whispered Catherine
+3,null,null,"  not to have a single acquaintance here
+4,null,null,"   "  Yes
+5,null,null,my dear
+6,null,null,"   replied Mrs
+7,null,null,Allen
+8,null,null,with perfect serenity
+9,null,null,"  it is very uncomfortable indeed
+10,null,null,What shall we do
+11,null,null,The gentlemen and ladies at this table look as if they wondered why we came here   we seem forcing ourselves into their party .  "
+2400 9
+ (5, 5),
+1,null,null,The Miss Thorpes were introduced
+2,null,null,and Miss Morland
+3,null,null,who had been for a short time forgotten
+4,null,null,was introduced likewise
+5,surprise,strike,The name seemed to strike them all
+6,null,null,and
+7,null,null,after speaking to her with great civility
+8,null,null,the eldest young lady observed aloud to the rest
+9,null,null,"  How excessively like her brother Miss Morland is
+2420 23
+ (12, 2),
+1,null,null,"  Good heaven
+2,null,null,' tis James
+3,null,null,"   was uttered at the same moment by Catherine
+4,null,null,and
+5,null,null,on catching the young men 's eyes
+6,null,null,the horse was immediately checked with a violence which almost threw him on his haunches
+7,null,null,and the servant having now scampered up
+8,null,null,the gentlemen jumped out
+9,null,null,and the equipage was delivered to his care
+10,null,null,Catherine
+11,null,null,by whom this meeting was wholly unexpected
+12,happiness,liveliest pleasure,received her brother with the liveliest pleasure
+13,null,null,and he
+14,null,null,being of a very amiable disposition
+15,null,null,and sincerely attached to her
+16,null,null,gave every proof on his side of equal satisfaction
+17,null,null,which he could have leisure to do
+18,null,null,while the bright eyes of Miss Thorpe were incessantly challenging his notice
+19,null,null,and to her his devoir were speedily paid
+20,null,null,with a mixture of joy and embarrassment which might have informed Catherine
+21,null,null,had she been more expert in the development of other people 's feelings
+22,null,null,and less simply engrossed by her own
+23,null,null,that her brother thought her friend quite as pretty as she could do herself .
+2423 17
+ (16, 17),
+1,null,null,"  I think you must like Udolpho
+2,null,null,if you were to read it
+3,null,null,it is so very interesting
+4,null,null,"  Not I
+5,null,null,faith
+6,null,null,No
+7,null,null,if I read any
+8,null,null,it shall be Mrs
+9,null,null,Radcliffe 's
+10,null,null,her novels are amusing enough
+11,null,null,they are worth reading
+12,null,null,some fun and nature in them
+13,null,null,"  Udolpho was written by Mrs
+14,null,null,Radcliffe
+15,null,null,"   said Catherine
+16,fear,hesitation,with some hesitation
+17,null,null,from the fear of mortifying him .
+2428 24
+ (16, 9),
+1,null,null,"  Yes
+2,null,null,very much indeed
+3,null,null,I fancy
+4,null,null,Mr Allen thinks her the prettiest girl in Bath
+5,null,null,"  I dare say he does
+6,null,null,and I do not know any man who is a better judge of beauty than Mr Allen
+7,null,null,I need not ask you whether you are happy here
+8,null,null,my dear Catherine
+9,null,null,with such a companion and friend as Isabella Thorpe
+10,null,null,it would be impossible for you to be otherwise
+11,null,null,and the Allens
+12,null,null,I am sure
+13,null,null,are very kind to you
+14,null,null,"    "  Yes
+15,null,null,very kind
+16,happiness,happy,I never was so happy before
+17,null,null,and now you are come it will be more delightful than ever
+18,null,null,how good it is of you to come so far on purpose to see me
+19,null,null,James accepted this tribute of gratitude
+20,null,null,and qualified his conscience for accepting it too
+21,null,null,by saying with perfect sincerity
+22,null,null,"  Indeed
+23,null,null,Catherine
+24,null,null,I love you dearly .  "
+2435 19
+ (15, 14),
+1,null,null,Mr Tilney and his companion
+2,null,null,who continued
+3,null,null,though slowly
+4,null,null,to approach
+5,null,null,were immediately preceded by a lady
+6,null,null,an acquaintance of Mrs
+7,null,null,Thorpe
+8,null,null,and this lady stopping to speak to her
+9,null,null,they
+10,null,null,as belonging to her
+11,null,null,stopped likewise
+12,null,null,and Catherine
+13,null,null,catching Mr Tilney 's eye
+14,null,null,instantly received from him the smiling tribute of recognition
+15,happiness,pleasure,She returned it with pleasure
+16,null,null,and then advancing still nearer
+17,null,null,he spoke both to her and Mrs
+18,null,null,Allen
+19,null,null,by whom he was very civilly acknowledged .
+2446 10
+ (8, 2),(8, 10),
+1,null,null,Her own feelings entirely engrossed her
+2,null,null,her wretchedness was most acute on finding herself obliged to go directly home
+3,null,null,It was ages since she had had a moment 's conversation with her dearest Catherine
+4,null,null,and
+5,null,null,though she had such thousands of things to say to her
+6,null,null,it appeared as if they were never to be together again
+7,null,null,so
+8,sadness,sniffles,with sniffles of most exquisite misery
+9,null,null,and the laughing eye of utter despondency
+10,null,null,she bade her friend adieu and went on .
+2448 10
+ (9, 2),(9, 10),
+1,null,null,Her own feelings entirely engrossed her
+2,null,null,her wretchedness was most acute on finding herself obliged to go directly home
+3,null,null,It was ages since she had had a moment 's conversation with her dearest Catherine
+4,null,null,and
+5,null,null,though she had such thousands of things to say to her
+6,null,null,it appeared as if they were never to be together again
+7,null,null,so
+8,null,null,with sniffles of most exquisite misery
+9,sadness,despondency,and the laughing eye of utter despondency
+10,null,null,she bade her friend adieu and went on .
+2462 2
+ (2, 2),
+1,null,null,It was of course the Lion 's voice
+2,surprise,lovely and terrible shock,The children had long felt sure that he could speak :  yet it was a lovely and terrible shock when he did .
+2479 14
+ (5, 4),(5, 5),
+1,null,null,Mr Darcy corroborated it with a bow
+2,null,null,and was beginning to determine not to fix his eyes on Elizabeth
+3,null,null,when they were suddenly arrested by the sight of the stranger
+4,null,null,and Elizabeth happening to see the countenance of both as they looked at each other
+5,surprise,astonishment,was all astonishment at the effect of the meeting
+6,null,null,Both changed colour
+7,null,null,one looked white
+8,null,null,the other red
+9,null,null,Mr Wickham
+10,null,null,after a few moments
+11,null,null,touched his hat   a salutation which Mr Darcy just deigned to return
+12,null,null,What could be the meaning of it
+13,null,null,It was impossible to imagine
+14,null,null,it was impossible not to long to know .
+2499 8
+ (6, 5),
+1,null,null,That settled it
+2,null,null,and telling him of Meg 's mishap
+3,null,null,Jo gratefully accepted and rushed up to bring down the rest of the party
+4,null,null,Hannah hated rain as much as a cat does so she made no trouble
+5,null,null,and they rolled away in the luxurious close carriage
+6,happiness,festive,feeling very festive and elegant
+7,null,null,Laurie went on the box so Meg could keep her foot up
+8,null,null,and the girls talked over their party in freedom .
+2543 1
+ (1, 1),
+1,disgust,The agony of,Sometimes an inhabitant , intimidated by this silence , moved rapidly along next the walls  .  The agony of waiting made them wish the enemy would come  .
+2545 1
+ (1, 1),
+1,happiness,is grateful to,One is grateful to him for this sentiment ; then , one may be , some day or other , in need of his protection  .  By treat-ing him well , one has , perhaps , a less number of men to feed  .
+2546 1
+ (1, 1),
+1,happiness,made many a face in the province expand with laughter,His reputation as a sharper was so well established that one evening at the residence of the prefect , Mr Tournel , author of some fables and songs , of keen , satirical mind , a local celebrity , having proposed to some ladies , who seemed to be getting a little sleepy , that they make up a game of " Loiseau tricks , the joke traversed the rooms of the prefect , reached those of the town , and then , in the months to come , made many a face in the province expand with laughter  .
+2547 1
+ (1, 1),
+1,anger,threw at her neighbors such a provoking , courageous look,As soon as she was recognized , a whisper went around among the honest women , and the words " prostitute " and " public shame " were whispered so loud that she raised her head  .  Then she threw at her neighbors such a provoking , courageous look that a great silence reigned , and everybody looked down except Loiseau , who watched her with an exhilarated air  .
+2549 1
+ (1, 1),
+1,happiness,be pleased to,Everything goes in time of war , does it not , Madame ?  " And then casting a comprehensive glance around , he added  :   " In moments like this , one can but be pleased to find people who are obliging  .
+2554 1
+ (1, 1),
+1,sadness,wept," I had my house full of provisions , and I preferred to feed a few soldiers rather than expatriate myself , to go I knew not where  .  But as soon as I saw them , those Prussians , that was too much for me ! They made my blood boil with anger , and I wept for very shame all day long  .  Oh ! if I were only a man ! I watched them from my windows , the great porkers with their pointed helmets , and my maid held my hands to keep me from throwing the furniture down upon them  .
+2560 1
+ (1, 1),
+1,fear,feared,Everybody agreed with him , asking , begging , be seeching her to go , and at last they convinced her that it was best ; they all feared the complications that might result from disobedience  .  She finally said  :   " It is for you that I do this , you understand  .   "
+2574 1
+ (1, 1),
+1,surprise,seemed surprised,Now I began to ask people on the road for the house of Shaws  .  Their answers worried me a little  .  Some people seemed surprised , some afraid , and some angry , when I spoke the name of Ebenezer Balfour  .  I could not understand this , but it was too far to go back to Essendean that day ,  and I wanted to find the rest of the Balfour family very much .
+2576 1
+ (1, 1),
+1,anger,angry,Now I began to ask people on the road for the house of Shaws  .  Their answers worried me a little  .  Some people seemed surprised , some afraid , and some angry , when I spoke the name of Ebenezer Balfour  .  I could not understand this , but it was too far to go back to Essendean that day ,  and I wanted to find the rest of the Balfour family very much .
+2579 1
+ (1, 1),
+1,fear,afraid,My uncle and I have to see the lawyer , sir , I replied ,  so im afraid we may not have enough time  .
+2591 1
+ (1, 1),
+1,sadness,was looking very ashamed,But when I woke up again ,  on the third day , I felt much better ,  although not very strong  .   I noticed that Alan was looking very ashamed ,  and I realized at once what had hap pened  .   David ,  he said miserably ,  i 've lost all our money at cards ,  yours as well as mine  .   No , no , ye have n't lost it ! cried Cluny  .
+2592 1
+ (1, 1),
+1,anger,angry,He was worried about my health ,  and offered me a hand when we crossed a river or climbed a hill  .  But after two or three days , when he realized that I was still angry with him ,  he too became angry , and laughed at me when I fell ,  or seemed tired  .
+2599 1
+ (1, 1),
+1,anger,annoyed,This will had both worried and annoyed Mr Utterson  .   To alawyer it was an unusual and dangerous kind of will  .   It wasbad enough when Edward Hyde was only an unknown name , but now that the lawyer knew something about Hyde ,  the will worried him more than ever  .   It had seemed like madness before ;
+2613 4
+ (4, 3),
+1,null,null,But he did not listen to me
+2,null,null,In my bedroom , he held my arms and started hitting me with the stick
+3,null,null,I managed to get hold of his hand ,  and bit deep into it
+4,anger,cried out angrily,He cried out angrily , and began to hit me as hard as he could  .  Above the noise of my screams ,  I could hear my mother and Peggotty crying outside the door .
+2615 4
+ (2, 3),
+1,null,null,Master David , my dear , she whispered
+2,sadness,cried,sobbing ,  they are going to send you away to boarding school !  Tomorrow !   Oh Peggotty !  I cried
+3,null,null,Then I wont see you and mother very often !   No ,  my love
+4,null,null,But dont forget ,  i 'll take care of your mother
+2625 5
+ (3, 3),
+1,null,null,So next morning Mr Barkis appeared at the door with his cart ,  and Peggotty 's cases were put on it
+2,null,null,We climbed up and sat beside him
+3,sadness,a little sad,Peggotty was naturally a little sad to leave her old home ,  where she had been so happy with my mother and me ,  and at first she cried a little
+4,null,null,But when Mr Barkis saw her drying her eyes and looking more cheerful ,  he too began to look happier ,  and he whispered to me
+5,null,null,Barkis is willing ! You told her that !  Aloud he said to Peggotty ,  Are you comfortable ?
+2645 1
+ (1, 1),
+1,anger,got angry,But when Pop had money   he got drunk again and made trouble in town  He was always coming to the widow 's house  and she got angry and told him to stay away
+2653 1
+ (1, 1),
+1,happiness,excited,After some time  we saw lights on the Illinois side of the river and Jim got very excited .  He thought it was Cairo
+2684 2
+ (1, 1),
+1,happiness,honour,"  I honour your circumspection
+2,null,null,A fortnight 's acquaintance is certainly very little .
+2697 6
+ (5, 6),
+1,null,null,Here she was interrupted again
+2,null,null,Mr Bennet protested against any description of finery
+3,null,null,She was therefore obliged to seek another branch of the subject
+4,null,null,and related
+5,disgust,much bitterness,with much bitterness of spirit and some exaggeration
+6,null,null,the shocking rudeness of Mr Darcy .
+2698 8
+ (5, 7),
+1,null,null,"  But I can assure you
+2,null,null,"   she added
+3,null,null,"  that Lizzy does not lose much by not suiting his fancy
+4,null,null,for he is a most disagreeable
+5,disgust,horrid,horrid man
+6,null,null,not at all worth pleasing
+7,null,null,So high and so conceited that there was no enduring him
+8,null,null,.
+2705 3
+ (2, 3),
+1,null,null,Of this she was perfectly unaware
+2,disgust,he was only the man who made himself agreeable no where,to her he was only the man who made himself agreeable no where
+3,null,null,and who had not thought her handsome enough to dance with .
+2726 5
+ (4, 1),
+1,null,null,"  I didnt know where in the hell you was
+2,null,null,"   said Ennis
+3,null,null,"  Four years
+4,sadness,give up on you,I about give up on you
+5,null,null,I figured you was sore about that punch .  "
+2728 3
+ (3, 1),
+1,null,null,We do that in the wrong place we 'll be dead
+2,null,null,There 's no reins on this one
+3,fear,scares,It scares the piss out a me .  "
+2733 2
+ (1, 1),
+1,happiness,remembered,What Jack remembered and craved in a way he could neither help nor understand was the time that distant summer on Brokeback when Ennis had come up behind him and pulled him close
+2,null,null,the silent embrace satisfying some shared and sexless hunger .
+2746 12
+ (11, 10),
+1,null,null,"  Hey
+2,null,null,Catnip
+3,null,null,"   says Gale
+4,null,null,My real name is Katniss
+5,null,null,but when I first told him
+6,null,null,I had barely whispered it
+7,null,null,So he thought i 'd said Catnip
+8,null,null,Then when this crazy lynx started following me around the woods looking for handouts
+9,null,null,it became his official nickname for me
+10,null,null,I finally had to kill the lynx because he scared off game
+11,sadness,regretted,I almost regretted it because he wasnt bad company
+12,null,null,But I got a decent price for his pelt .
+2754 13
+ (1, 3),
+1,sadness,bad,It 's too bad
+2,null,null,really
+3,null,null,that they hold the reaping in the square !  one of the few places in District 12 that can be pleasant
+4,null,null,The square 's surrounded by shops
+5,null,null,and on public market days
+6,null,null,especially if there 's good weather
+7,null,null,it has a holiday feel to it
+8,null,null,But today
+9,null,null,despite the bright banners hanging on the buildings
+10,null,null,there 's an air of grimness
+11,null,null,The camera crews
+12,null,null,perched like buzzards on rooftops
+13,null,null,only add to the effect .
+2773 9
+ (2, 2),
+1,null,null,When I passed the baker 's
+2,happiness,felt dizzy,the smell of fresh bread was so overwhelming I felt dizzy
+3,null,null,The ovens were in the back
+4,null,null,and a golden glow spilled out the open kitchen door
+5,null,null,I stood mesmerized by the heat and the luscious scent until the rain interfered
+6,null,null,running its icy fingers down my back
+7,null,null,forcing me back to life
+8,null,null,I lifted the lid to the baker 's trash bin and found it spotlessly
+9,null,null,heartlessly bare .
+2795 7
+ (6, 6),
+1,null,null,"  Here 's some advice
+2,null,null,Stay alive
+3,null,null,"   says Haymitch
+4,null,null,and then bursts out laughing
+5,null,null,I exchange a look with Peeta before I remember im having nothing more to do with him
+6,surprise,surprised,im surprised to see the hardness in his eyes
+7,null,null,He generally seems so mild .
+2802 11
+ (2, 3),
+1,null,null,Despite this morning 's revelation about Peeta 's character
+2,happiness,relieved,im actually relieved when he shows up
+3,null,null,dressed in an identical costume
+4,null,null,He should know about fire
+5,null,null,being a baker 's son and all
+6,null,null,His stylist
+7,null,null,Portia
+8,null,null,and her team accompany him in
+9,null,null,and everyone is absolutely giddy with excitement over what a splash we 'll make
+10,null,null,Except Cinna
+11,null,null,He just seems a bit weary as he accepts congratulations .
+2810 9
+ (9, 9),
+1,null,null,"  Everyone has their reservations
+2,null,null,naturally
+3,null,null,You being from the coal district
+4,null,null,But I said
+5,null,null,and this was very clever of me
+6,null,null,I said
+7,null,null,Well
+8,null,null,if you put enough pressure on coal it turns to pearls
+9,happiness,enthusiastically,' "   Effie beams at us so brilliantly that we have no choice but to respond enthusiastically to her cleverness even though it 's wrong .
+2838 3
+ (2, 2),
+1,null,null,So we were surprised when Homer Barron - the streets had been finished some time since was gone
+2,sadness,disappointed,We were a little disappointed that there was not a public blowing off
+3,null,null,but we believed that he had gone on to prepare for Miss Emily 's coming
